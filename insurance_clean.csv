@@ -1,0 +1,1339 @@
+age;sex;bmi;children;smoker;region;charges;age_discretized;bmi_description;children_description;charges_log;smoker_bmi
+19;female;27.9;0;yes;southwest;16884.924;0.0;overweight;no children;9.734176431773115;yes_not_obese
+18;male;33.77;1;no;southeast;1725.5523;0.0;obese;up to 3 children;7.453302452133774;no
+28;male;33.0;3;no;southeast;4449.462;1.0;obese;up to 3 children;8.400538468975023;no
+33;male;22.705;0;no;northwest;21984.47061;1.0;normal;no children;9.998091601725266;no
+32;male;28.88;0;no;northwest;3866.8552;1.0;overweight;no children;8.260196845858372;no
+31;female;25.74;0;no;southeast;3756.6216;1.0;overweight;no children;8.231275321843;no
+46;female;33.44;1;no;southeast;8240.5896;3.0;obese;up to 3 children;9.016827173741753;no
+37;female;27.74;3;no;northwest;7281.5056;2.0;overweight;up to 3 children;8.893092932994646;no
+37;male;29.83;2;no;northeast;6406.4107;2.0;overweight;up to 3 children;8.765054439884247;no
+60;female;25.84;0;no;northwest;28923.13692;4.0;overweight;no children;10.272397139270046;no
+25;male;26.22;0;no;northeast;2721.3208;1.0;overweight;no children;7.908872629665523;no
+62;female;26.29;0;yes;southeast;27808.7251;4.0;overweight;no children;10.233105102955316;yes_not_obese
+23;male;34.4;0;no;southwest;1826.843;0.0;obese;no children;7.510344619461671;no
+56;female;39.82;0;no;southeast;11090.7178;4.0;obese;no children;9.3138638032273;no
+27;male;42.13;0;yes;southeast;39611.7577;1.0;obese;no children;10.586881264789202;yes_obese
+19;male;24.6;1;no;southwest;1837.237;0.0;normal;up to 3 children;7.516018091591322;no
+52;female;30.78;1;no;northeast;10797.3362;3.0;obese;up to 3 children;9.287054734541506;no
+23;male;23.845;0;no;northeast;2395.17155;0.0;normal;no children;7.78121013567231;no
+56;male;40.3;0;no;southwest;10602.385;4.0;obese;no children;9.268834254791456;no
+30;male;35.3;0;yes;southwest;36837.467;1.0;obese;no children;10.514270731219284;yes_obese
+60;female;36.005;0;no;northeast;13228.84695;4.0;obese;no children;9.490155099115842;no
+30;female;32.4;1;no;southwest;4149.736;1.0;obese;up to 3 children;8.330799996743426;no
+18;male;34.1;0;no;southeast;1137.011;0.0;obese;no children;7.036158168285971;no
+34;female;31.92;1;yes;northeast;37701.8768;2.0;obese;up to 3 children;10.537465154690363;yes_obese
+37;male;28.025;2;no;northwest;6203.90175;2.0;overweight;up to 3 children;8.73293368761397;no
+59;female;27.72;3;no;southeast;14001.1338;4.0;overweight;up to 3 children;9.546893591032516;no
+63;female;23.085;0;no;northeast;14451.83515;4.0;normal;no children;9.578576685476762;no
+55;female;32.775;2;no;northwest;12268.63225;4.0;obese;up to 3 children;9.414801060423951;no
+23;male;17.385;1;no;northwest;2775.19215;0.0;underweight;up to 3 children;7.928475267026576;no
+31;male;36.3;2;yes;southwest;38711.0;1.0;obese;up to 3 children;10.563879076356082;yes_obese
+22;male;35.6;0;yes;southwest;35585.576;0.0;obese;no children;10.479695666197845;yes_obese
+18;female;26.315;0;no;northeast;2198.18985;0.0;overweight;no children;7.695389505209892;no
+19;female;28.6;5;no;southwest;4687.797;0.0;overweight;more than 3 children;8.452718028271507;no
+63;male;28.31;0;no;northwest;13770.0979;4.0;overweight;no children;9.530254701356105;no
+28;male;36.4;1;yes;southwest;51194.55914;1.0;obese;up to 3 children;10.843388538584009;yes_obese
+19;male;20.425;0;no;northwest;1625.43375;0.0;normal;no children;7.393529982223134;no
+62;female;32.965;3;no;northwest;15612.19335;4.0;obese;up to 3 children;9.65580751292789;no
+26;male;20.8;0;no;southwest;2302.3;1.0;normal;no children;7.741663902250325;no
+35;male;36.67;1;yes;northeast;39774.2763;2.0;obese;up to 3 children;10.59097565819445;yes_obese
+60;male;39.9;0;yes;southwest;48173.361;4.0;obese;no children;10.782561470908275;yes_obese
+24;female;26.6;0;no;northeast;3046.062;1.0;overweight;no children;8.021604887811318;no
+31;female;36.63;2;no;southeast;4949.7587;1.0;obese;up to 3 children;8.507094106899793;no
+41;male;21.78;1;no;southeast;6272.4772;2.0;normal;up to 3 children;8.743926643319663;no
+37;female;30.8;2;no;southeast;6313.759;2.0;obese;up to 3 children;8.750486499241552;no
+38;male;37.05;1;no;northeast;6079.6715;2.0;obese;up to 3 children;8.712705943895298;no
+55;male;37.3;0;no;southwest;20630.28351;4.0;obese;no children;9.93451534857872;no
+18;female;38.665;2;no;northeast;3393.35635;0.0;obese;up to 3 children;8.129574784321063;no
+28;female;34.77;0;no;northwest;3556.9223;1.0;obese;no children;8.176650927459093;no
+60;female;24.53;0;no;southeast;12629.8967;4.0;normal;no children;9.443822036372055;no
+36;male;35.2;1;yes;southeast;38709.176;2.0;obese;up to 3 children;10.563831956855854;yes_obese
+18;female;35.625;0;no;northeast;2211.13075;0.0;obese;no children;7.701259315246468;no
+21;female;33.63;2;no;northwest;3579.8287;0.0;obese;up to 3 children;8.183070229087928;no
+48;male;28.0;1;yes;southwest;23568.272;3.0;overweight;up to 3 children;10.067656679708454;yes_not_obese
+36;male;34.43;0;yes;southeast;37742.5757;2.0;obese;no children;10.538544065136376;yes_obese
+40;female;28.69;3;no;northwest;8059.6791;2.0;overweight;up to 3 children;8.994629020812297;no
+58;male;36.955;2;yes;northwest;47496.49445;4.0;obese;up to 3 children;10.76841118624667;yes_obese
+58;female;31.825;2;no;northeast;13607.36875;4.0;obese;up to 3 children;9.518366744845707;no
+18;male;31.68;2;yes;southeast;34303.1672;0.0;obese;up to 3 children;10.442992967083542;yes_obese
+53;female;22.88;1;yes;southeast;23244.7902;3.0;normal;up to 3 children;10.053836308487051;yes_not_obese
+34;female;37.335;2;no;northwest;5989.52365;2.0;obese;up to 3 children;8.697767163740266;no
+43;male;27.36;3;no;northeast;8606.2174;2.0;overweight;up to 3 children;9.060240174524983;no
+25;male;33.66;4;no;southeast;4504.6624;1.0;obese;more than 3 children;8.41286822827766;no
+64;male;24.7;1;no;northwest;30166.61817;4.0;normal;up to 3 children;10.314491233394307;no
+28;female;25.935;1;no;northwest;4133.64165;1.0;overweight;up to 3 children;8.326914052885053;no
+20;female;22.42;0;yes;northwest;14711.7438;0.0;normal;no children;9.596401351776898;yes_not_obese
+19;female;28.9;0;no;southwest;1743.214;0.0;overweight;no children;7.463485814805136;no
+61;female;39.1;2;no;southwest;14235.072;4.0;obese;up to 3 children;9.56346405765509;no
+40;male;26.315;1;no;northwest;6389.37785;2.0;overweight;up to 3 children;8.762392179564197;no
+40;female;36.19;0;no;southeast;5920.1041;2.0;obese;no children;8.686109312182905;no
+28;male;23.98;3;yes;southeast;17663.1442;1.0;normal;up to 3 children;9.779235499080675;yes_not_obese
+27;female;24.75;0;yes;southeast;16577.7795;1.0;normal;no children;9.715818493302972;yes_not_obese
+31;male;28.5;5;no;northeast;6799.458;1.0;overweight;more than 3 children;8.824598182105163;no
+53;female;28.1;3;no;southwest;11741.726;3.0;overweight;up to 3 children;9.370904101315244;no
+58;male;32.01;1;no;southeast;11946.6259;4.0;obese;up to 3 children;9.388204166026542;no
+44;male;27.4;2;no;southwest;7726.854;3.0;overweight;up to 3 children;8.952457072970553;no
+57;male;34.01;0;no;northwest;11356.6609;4.0;obese;no children;9.33755971420867;no
+29;female;29.59;1;no;southeast;3947.4131;1.0;overweight;up to 3 children;8.280815731954618;no
+21;male;35.53;0;no;southeast;1532.4697;0.0;obese;no children;7.334635895999898;no
+22;female;39.805;0;no;northeast;2755.02095;0.0;obese;no children;7.921180325913819;no
+41;female;32.965;0;no;northwest;6571.02435;2.0;obese;no children;8.790425012567459;no
+31;male;26.885;1;no;northeast;4441.21315;1.0;overweight;up to 3 children;8.398682850087193;no
+45;female;38.285;0;no;northeast;7935.29115;3.0;obese;no children;8.979075324158835;no
+22;male;37.62;1;yes;southeast;37165.1638;0.0;obese;up to 3 children;10.52312714452221;yes_obese
+48;female;41.23;4;no;northwest;11033.6617;3.0;obese;more than 3 children;9.30870603358349;no
+37;female;34.8;2;yes;southwest;39836.519;2.0;obese;up to 3 children;10.592539333383169;yes_obese
+45;male;22.895;2;yes;northwest;21098.55405;3.0;normal;up to 3 children;9.956959788679958;yes_not_obese
+57;female;31.16;0;yes;northwest;43578.9394;4.0;obese;no children;10.682329271350698;yes_obese
+56;female;27.2;0;no;southwest;11073.176;4.0;overweight;no children;9.312280886089988;no
+46;female;27.74;0;no;northwest;8026.6666;3.0;overweight;no children;8.990524602449;no
+55;female;26.98;0;no;northwest;11082.5772;4.0;overweight;no children;9.313129532532235;no
+21;female;39.49;0;no;southeast;2026.9741;0.0;obese;no children;7.614299368866667;no
+53;female;24.795;1;no;northwest;10942.13205;3.0;normal;up to 3 children;9.300375942728616;no
+59;male;29.83;3;yes;northeast;30184.9367;4.0;overweight;up to 3 children;10.315098294160247;yes_not_obese
+35;male;34.77;2;no;northwest;5729.0053;2.0;obese;up to 3 children;8.653297199525971;no
+64;female;31.3;2;yes;southwest;47291.055;4.0;obese;up to 3 children;10.764076444545346;yes_obese
+28;female;37.62;1;no;southeast;3766.8838;1.0;obese;up to 3 children;8.234003360388554;no
+54;female;30.8;3;no;southwest;12105.32;4.0;obese;up to 3 children;9.401400304380042;no
+55;male;38.28;0;no;southeast;10226.2842;4.0;obese;no children;9.23271656715675;no
+56;male;19.95;0;yes;northeast;22412.6485;4.0;normal;no children;10.01738074365831;yes_not_obese
+38;male;19.3;0;yes;southwest;15820.699;2.0;normal;no children;9.669074424922021;yes_not_obese
+41;female;31.6;0;no;southwest;6186.127;2.0;obese;no children;8.730064483263824;no
+30;male;25.46;0;no;northeast;3645.0894;1.0;overweight;no children;8.201136170890955;no
+18;female;30.115;0;no;northeast;21344.8467;0.0;obese;no children;9.968565617156433;no
+61;female;29.92;3;yes;southeast;30942.1918;4.0;overweight;up to 3 children;10.339875961954133;yes_not_obese
+34;female;27.5;1;no;southwest;5003.853;2.0;overweight;up to 3 children;8.517963494656502;no
+20;male;28.025;1;yes;northwest;17560.37975;0.0;overweight;up to 3 children;9.773400492809486;yes_not_obese
+19;female;28.4;1;no;southwest;2331.519;0.0;overweight;up to 3 children;7.754275265475304;no
+26;male;30.875;2;no;northwest;3877.30425;1.0;obese;up to 3 children;8.262895410217363;no
+29;male;27.94;0;no;southeast;2867.1196;1.0;overweight;no children;7.961063181092804;no
+63;male;35.09;0;yes;southeast;47055.5321;4.0;obese;no children;10.75908371727273;yes_obese
+54;male;33.63;1;no;northwest;10825.2537;4.0;obese;up to 3 children;9.289636989085668;no
+55;female;29.7;2;no;southwest;11881.358;4.0;overweight;up to 3 children;9.382725896148083;no
+37;male;30.8;0;no;southwest;4646.759;2.0;obese;no children;8.443925266324161;no
+21;female;35.72;0;no;northwest;2404.7338;0.0;obese;no children;7.78519449034302;no
+52;male;32.205;3;no;northeast;11488.31695;3.0;obese;up to 3 children;9.349085880566193;no
+60;male;28.595;0;no;northeast;30259.99556;4.0;overweight;no children;10.317581840613983;no
+58;male;49.06;0;no;southeast;11381.3254;4.0;obese;no children;9.339729168385329;no
+29;female;27.94;1;yes;southeast;19107.7796;1.0;overweight;up to 3 children;9.857850840007492;yes_not_obese
+49;female;27.17;0;no;southeast;8601.3293;3.0;overweight;no children;9.059672040064365;no
+37;female;23.37;2;no;northwest;6686.4313;2.0;normal;up to 3 children;8.807835572826509;no
+44;male;37.1;2;no;southwest;7740.337;3.0;obese;up to 3 children;8.954200505687611;no
+18;male;23.75;0;no;northeast;1705.6245;0.0;normal;no children;7.441686598314886;no
+20;female;28.975;0;no;northwest;2257.47525;0.0;overweight;no children;7.722002321775892;no
+44;male;31.35;1;yes;northeast;39556.4945;3.0;obese;up to 3 children;10.585485169575772;yes_obese
+47;female;33.915;3;no;northwest;10115.00885;3.0;obese;up to 3 children;9.221775624539674;no
+26;female;28.785;0;no;northeast;3385.39915;1.0;overweight;no children;8.127227095676806;no
+19;female;28.3;0;yes;southwest;17081.08;0.0;overweight;no children;9.745726697193628;yes_not_obese
+52;female;37.4;0;no;southwest;9634.538;3.0;obese;no children;9.17310962951719;no
+32;female;17.765;2;yes;northwest;32734.1863;1.0;underweight;up to 3 children;10.39617526337975;yes_not_obese
+38;male;34.7;2;no;southwest;6082.405;2.0;obese;up to 3 children;8.71315545595782;no
+59;female;26.505;0;no;northeast;12815.44495;4.0;overweight;no children;9.458406359225453;no
+61;female;22.04;0;no;northeast;13616.3586;4.0;normal;no children;9.519027187129101;no
+53;female;35.9;2;no;southwest;11163.568;3.0;obese;up to 3 children;9.320410898099556;no
+19;male;25.555;0;no;northwest;1632.56445;0.0;overweight;no children;7.397907339697485;no
+20;female;28.785;0;no;northeast;2457.21115;0.0;overweight;no children;7.806782306964648;no
+22;female;28.05;0;no;southeast;2155.6815;0.0;overweight;no children;7.675862193843412;no
+19;male;34.1;0;no;southwest;1261.442;0.0;obese;no children;7.140010790012643;no
+22;male;25.175;0;no;northwest;2045.68525;0.0;overweight;no children;7.623488097922841;no
+54;female;31.9;3;no;southeast;27322.73386;4.0;obese;up to 3 children;10.215474376760241;no
+22;female;36.0;0;no;southwest;2166.732;0.0;obese;no children;7.680975320607154;no
+34;male;22.42;2;no;northeast;27375.90478;2.0;normal;up to 3 children;10.217418517896819;no
+26;male;32.49;1;no;northeast;3490.5491;1.0;obese;up to 3 children;8.157814338064135;no
+34;male;25.3;2;yes;southeast;18972.495;2.0;overweight;up to 3 children;9.8507455777387;yes_not_obese
+29;male;29.735;2;no;northwest;18157.876;1.0;overweight;up to 3 children;9.806859684962467;no
+30;male;28.69;3;yes;northwest;20745.9891;1.0;overweight;up to 3 children;9.940108210589148;yes_not_obese
+29;female;38.83;3;no;southeast;5138.2567;1.0;obese;up to 3 children;8.544469137496163;no
+46;male;30.495;3;yes;northwest;40720.55105;3.0;obese;up to 3 children;10.614488183794922;yes_obese
+51;female;37.73;1;no;southeast;9877.6077;3.0;obese;up to 3 children;9.19802562579482;no
+53;female;37.43;1;no;northwest;10959.6947;3.0;obese;up to 3 children;9.30197970427461;no
+19;male;28.4;1;no;southwest;1842.519;0.0;overweight;up to 3 children;7.518888936086307;no
+35;male;24.13;1;no;northwest;5125.2157;2.0;normal;up to 3 children;8.54192789092582;no
+48;male;29.7;0;no;southeast;7789.635;3.0;overweight;no children;8.960549282824834;no
+32;female;37.145;3;no;northeast;6334.34355;1.0;obese;up to 3 children;8.753741464655173;no
+42;female;23.37;0;yes;northeast;19964.7463;2.0;normal;no children;9.901723312178918;yes_not_obese
+40;female;25.46;1;no;northeast;7077.1894;2.0;overweight;up to 3 children;8.864632130470248;no
+44;male;39.52;0;no;northwest;6948.7008;3.0;obese;no children;8.846309985832468;no
+48;male;24.42;0;yes;southeast;21223.6758;3.0;normal;no children;9.962872620540713;yes_not_obese
+18;male;25.175;0;yes;northeast;15518.18025;0.0;overweight;no children;9.649767534929675;yes_not_obese
+30;male;35.53;0;yes;southeast;36950.2567;1.0;obese;no children;10.517327873578196;yes_obese
+50;female;27.83;3;no;southeast;19749.38338;3.0;overweight;up to 3 children;9.890877548576052;no
+42;female;26.6;0;yes;northwest;21348.706;2.0;overweight;no children;9.96874640792068;yes_not_obese
+18;female;36.85;0;yes;southeast;36149.4835;0.0;obese;no children;10.495417939794661;yes_obese
+54;male;39.6;1;no;southwest;10450.552;4.0;obese;up to 3 children;9.25441007896438;no
+32;female;29.8;2;no;southwest;5152.134;1.0;overweight;up to 3 children;8.547166276762724;no
+37;male;29.64;0;no;northwest;5028.1466;2.0;overweight;no children;8.522806726007444;no
+47;male;28.215;4;no;northeast;10407.08585;3.0;overweight;more than 3 children;9.250242184859143;no
+20;female;37.0;5;no;southwest;4830.63;0.0;obese;more than 3 children;8.48273217292335;no
+32;female;33.155;3;no;northwest;6128.79745;1.0;obese;up to 3 children;8.720753835134126;no
+19;female;31.825;1;no;northwest;2719.27975;0.0;obese;up to 3 children;7.908122326430799;no
+27;male;18.905;3;no;northeast;4827.90495;1.0;normal;up to 3 children;8.482167894782533;no
+63;male;41.47;0;no;southeast;13405.3903;4.0;obese;no children;9.503412166247688;no
+49;male;30.3;0;no;southwest;8116.68;3.0;obese;no children;9.00167648255175;no
+18;male;15.96;0;no;northeast;1694.7964;0.0;underweight;no children;7.435317894605706;no
+35;female;34.8;1;no;southwest;5246.047;2.0;obese;up to 3 children;8.5652301195937;no
+24;female;33.345;0;no;northwest;2855.43755;1.0;obese;no children;7.956980367790471;no
+63;female;37.7;0;yes;southwest;48824.45;4.0;obese;no children;10.79598649096049;yes_obese
+38;male;27.835;2;no;northwest;6455.86265;2.0;overweight;up to 3 children;8.772743934940326;no
+54;male;29.2;1;no;southwest;10436.096;4.0;overweight;up to 3 children;9.253025845141101;no
+46;female;28.9;2;no;southwest;8823.279;3.0;overweight;up to 3 children;9.085148848619458;no
+41;female;33.155;3;no;northeast;8538.28845;2.0;obese;up to 3 children;9.05231585100584;no
+58;male;28.595;0;no;northwest;11735.87905;4.0;overweight;no children;9.370406013873325;no
+18;female;38.28;0;no;southeast;1631.8212;0.0;obese;no children;7.3974519706985165;no
+22;male;19.95;3;no;northeast;4005.4225;0.0;normal;up to 3 children;8.295404347072033;no
+44;female;26.41;0;no;northwest;7419.4779;3.0;overweight;no children;8.91186396980437;no
+44;male;30.69;2;no;southeast;7731.4271;3.0;obese;up to 3 children;8.95304874291158;no
+36;male;41.895;3;yes;northeast;43753.33705;2.0;obese;up to 3 children;10.68632316430551;yes_obese
+26;female;29.92;2;no;southeast;3981.9768;1.0;overweight;up to 3 children;8.289533658389189;no
+30;female;30.9;3;no;southwest;5325.651;1.0;obese;up to 3 children;8.5802902366264;no
+41;female;32.2;1;no;southwest;6775.961;2.0;obese;up to 3 children;8.821136480707299;no
+29;female;32.11;2;no;northwest;4922.9159;1.0;obese;up to 3 children;8.50165629653286;no
+61;male;31.57;0;no;southeast;12557.6053;4.0;obese;no children;9.438081761016077;no
+36;female;26.2;0;no;southwest;4883.866;2.0;overweight;no children;8.49369239832677;no
+25;male;25.74;0;no;southeast;2137.6536;1.0;overweight;no children;7.667464057878258;no
+56;female;26.6;1;no;northwest;12044.342;4.0;overweight;up to 3 children;9.396350285080237;no
+18;male;34.43;0;no;southeast;1137.4697;0.0;obese;no children;7.036561513107688;no
+19;male;30.59;0;no;northwest;1639.5631;0.0;obese;no children;7.402185082887787;no
+39;female;32.8;0;no;southwest;5649.715;2.0;obese;no children;8.639360380390347;no
+45;female;28.6;2;no;southeast;8516.829;3.0;overweight;up to 3 children;9.04979936744745;no
+51;female;18.05;0;no;northwest;9644.2525;3.0;underweight;no children;9.17411742104044;no
+64;female;39.33;0;no;northeast;14901.5167;4.0;obese;no children;9.60921827869941;no
+19;female;32.11;0;no;northwest;2130.6759;0.0;obese;no children;7.664194532310539;no
+48;female;32.23;1;no;southeast;8871.1517;3.0;obese;up to 3 children;9.090559909039461;no
+60;female;24.035;0;no;northwest;13012.20865;4.0;normal;no children;9.473643322662959;no
+27;female;36.08;0;yes;southeast;37133.8982;1.0;obese;no children;10.522285529540705;yes_obese
+46;male;22.3;0;no;southwest;7147.105;3.0;normal;no children;8.874462658591002;no
+28;female;28.88;1;no;northeast;4337.7352;1.0;overweight;up to 3 children;8.375107647568866;no
+59;male;26.4;0;no;southeast;11743.299;4.0;overweight;no children;9.371038059018279;no
+35;male;27.74;2;yes;northeast;20984.0936;2.0;overweight;up to 3 children;9.951519982078127;yes_not_obese
+63;female;31.8;0;no;southwest;13880.949;4.0;obese;no children;9.538272603481479;no
+40;male;41.23;1;no;northeast;6610.1097;2.0;obese;up to 3 children;8.796355528774585;no
+20;male;33.0;1;no;southwest;1980.07;0.0;obese;up to 3 children;7.590887476599013;no
+40;male;30.875;4;no;northwest;8162.71625;2.0;obese;more than 3 children;9.007332266342479;no
+24;male;28.5;2;no;northwest;3537.703;1.0;overweight;up to 3 children;8.171232925464038;no
+34;female;26.73;1;no;southeast;5002.7827;2.0;overweight;up to 3 children;8.517749576605288;no
+45;female;30.9;2;no;southwest;8520.026;3.0;obese;up to 3 children;9.050174671461898;no
+41;female;37.1;2;no;southwest;7371.772;2.0;obese;up to 3 children;8.905413390476387;no
+53;female;26.6;0;no;northwest;10355.641;3.0;overweight;no children;9.245286674376384;no
+27;male;23.1;0;no;southeast;2483.736;1.0;normal;no children;7.817519157211993;no
+26;female;29.92;1;no;southeast;3392.9768;1.0;overweight;up to 3 children;8.129462927154016;no
+24;female;23.21;0;no;southeast;25081.76784;1.0;normal;no children;10.12989648030097;no
+34;female;33.7;1;no;southwest;5012.471;2.0;obese;up to 3 children;8.51968428606193;no
+53;female;33.25;0;no;northeast;10564.8845;3.0;obese;no children;9.265290997666689;no
+32;male;30.8;3;no;southwest;5253.524;1.0;obese;up to 3 children;8.566654368501379;no
+19;male;34.8;0;yes;southwest;34779.615;0.0;obese;no children;10.456786718266788;yes_obese
+42;male;24.64;0;yes;southeast;19515.5416;2.0;normal;no children;9.878966432240112;yes_not_obese
+55;male;33.88;3;no;southeast;11987.1682;4.0;obese;up to 3 children;9.39159203997651;no
+28;male;38.06;0;no;southeast;2689.4954;1.0;obese;no children;7.89710887135675;no
+58;female;41.91;0;no;southeast;24227.33724;4.0;obese;no children;10.09523691260038;no
+41;female;31.635;1;no;northeast;7358.17565;2.0;obese;up to 3 children;8.90356730735587;no
+47;male;25.46;2;no;northeast;9225.2564;3.0;overweight;up to 3 children;9.129700262560421;no
+42;female;36.195;1;no;northwest;7443.64305;2.0;obese;up to 3 children;8.915115665242206;no
+59;female;27.83;3;no;southeast;14001.2867;4.0;overweight;up to 3 children;9.54690451151705;no
+19;female;17.8;0;no;southwest;1727.785;0.0;underweight;no children;7.454595520326733;no
+59;male;27.5;1;no;southwest;12333.828;4.0;overweight;up to 3 children;9.420101010262051;no
+39;male;24.51;2;no;northwest;6710.1919;2.0;normal;up to 3 children;8.811382828662593;no
+40;female;22.22;2;yes;southeast;19444.2658;2.0;normal;up to 3 children;9.875307488098656;yes_not_obese
+18;female;26.73;0;no;southeast;1615.7667;0.0;overweight;no children;7.38756485984698;no
+31;male;38.39;2;no;southeast;4463.2051;1.0;obese;up to 3 children;8.403622419208565;no
+19;male;29.07;0;yes;northwest;17352.6803;0.0;overweight;no children;9.761502257593413;yes_not_obese
+44;male;38.06;1;no;southeast;7152.6714;3.0;obese;up to 3 children;8.875241188286216;no
+23;female;36.67;2;yes;northeast;38511.6283;0.0;obese;up to 3 children;10.558715508439093;yes_obese
+33;female;22.135;1;no;northeast;5354.07465;1.0;normal;up to 3 children;8.585613166829567;no
+55;female;26.8;1;no;southwest;35160.13457;4.0;overweight;up to 3 children;10.467668179152426;no
+40;male;35.3;3;no;southwest;7196.867;2.0;obese;up to 3 children;8.881401071414858;no
+63;female;27.74;0;yes;northeast;29523.1656;4.0;overweight;no children;10.292930508737422;yes_not_obese
+54;male;30.02;0;no;northwest;24476.47851;4.0;obese;no children;10.105467874562926;no
+60;female;38.06;0;no;southeast;12648.7034;4.0;obese;no children;9.44530999087867;no
+24;male;35.86;0;no;southeast;1986.9334;1.0;obese;no children;7.594347724123951;no
+19;male;20.9;1;no;southwest;1832.094;0.0;normal;up to 3 children;7.513214853961428;no
+29;male;28.975;1;no;northeast;4040.55825;1.0;overweight;up to 3 children;8.304138142102193;no
+18;male;17.29;2;yes;northeast;12829.4551;0.0;underweight;up to 3 children;9.459498985936145;yes_not_obese
+63;female;32.2;2;yes;southwest;47305.305;4.0;obese;up to 3 children;10.764377724639163;yes_obese
+54;male;34.21;2;yes;southeast;44260.7499;4.0;obese;up to 3 children;10.697853556525223;yes_obese
+27;male;30.3;3;no;southwest;4260.744;1.0;obese;up to 3 children;8.357199071901572;no
+50;male;31.825;0;yes;northeast;41097.16175;3.0;obese;no children;10.623694340922153;yes_obese
+55;female;25.365;3;no;northeast;13047.33235;4.0;overweight;up to 3 children;9.476338974230188;no
+56;male;33.63;0;yes;northwest;43921.1837;4.0;obese;no children;10.690152027095278;yes_obese
+38;female;40.15;0;no;southeast;5400.9805;2.0;obese;no children;8.594335790143862;no
+51;male;24.415;4;no;northwest;11520.09985;3.0;normal;more than 3 children;9.351848601747042;no
+19;male;31.92;0;yes;northwest;33750.2918;0.0;obese;no children;10.426744342189226;yes_obese
+58;female;25.2;0;no;southwest;11837.16;4.0;overweight;no children;9.378999014800954;no
+20;female;26.84;1;yes;southeast;17085.2676;0.0;overweight;up to 3 children;9.74597182728889;yes_not_obese
+52;male;24.32;3;yes;northeast;24869.8368;3.0;normal;up to 3 children;10.12141097465288;yes_not_obese
+19;male;36.955;0;yes;northwest;36219.40545;0.0;obese;no children;10.497350316338569;yes_obese
+53;female;38.06;3;no;southeast;20462.99766;3.0;obese;up to 3 children;9.926373541970088;no
+46;male;42.35;3;yes;southeast;46151.1245;3.0;obese;up to 3 children;10.739676605831331;yes_obese
+40;male;19.8;1;yes;southeast;17179.522;2.0;normal;up to 3 children;9.75147337210112;yes_not_obese
+59;female;32.395;3;no;northeast;14590.63205;4.0;obese;up to 3 children;9.588134961346164;no
+45;male;30.2;1;no;southwest;7441.053;3.0;obese;up to 3 children;8.914767650070457;no
+49;male;25.84;1;no;northeast;9282.4806;3.0;overweight;up to 3 children;9.135884096094836;no
+18;male;29.37;1;no;southeast;1719.4363;0.0;overweight;up to 3 children;7.449751783533308;no
+50;male;34.2;2;yes;southwest;42856.838;3.0;obese;up to 3 children;10.665620491224391;yes_obese
+41;male;37.05;2;no;northwest;7265.7025;2.0;obese;up to 3 children;8.890920267819599;no
+50;male;27.455;1;no;northeast;9617.66245;3.0;overweight;up to 3 children;9.17135652556776;no
+25;male;27.55;0;no;northwest;2523.1695;1.0;overweight;no children;7.833271128310732;no
+47;female;26.6;2;no;northeast;9715.841;3.0;overweight;up to 3 children;9.181512925228999;no
+19;male;20.615;2;no;northwest;2803.69785;0.0;normal;up to 3 children;7.938694485572268;no
+22;female;24.3;0;no;southwest;2150.469;0.0;normal;no children;7.673441236867624;no
+59;male;31.79;2;no;southeast;12928.7911;4.0;obese;up to 3 children;9.467211971648577;no
+51;female;21.56;1;no;southeast;9855.1314;3.0;normal;up to 3 children;9.195747552831266;no
+40;female;28.12;1;yes;northeast;22331.5668;2.0;overweight;up to 3 children;10.01375650806908;yes_not_obese
+54;male;40.565;3;yes;northeast;48549.17835;4.0;obese;up to 3 children;10.790332549786354;yes_obese
+30;male;27.645;1;no;northeast;4237.12655;1.0;overweight;up to 3 children;8.351640618011537;no
+55;female;32.395;1;no;northeast;11879.10405;4.0;obese;up to 3 children;9.38253617340599;no
+52;female;31.2;0;no;southwest;9625.92;3.0;obese;no children;9.172214739003671;no
+46;male;26.62;1;no;southeast;7742.1098;3.0;overweight;up to 3 children;8.954429513418837;no
+46;female;48.07;2;no;northeast;9432.9253;3.0;obese;up to 3 children;9.15196153961076;no
+63;female;26.22;0;no;northwest;14256.1928;4.0;overweight;no children;9.564946673749331;no
+59;female;36.765;1;yes;northeast;47896.79135;4.0;obese;up to 3 children;10.776803794725254;yes_obese
+52;male;26.4;3;no;southeast;25992.82104;3.0;overweight;up to 3 children;10.16557566503102;no
+28;female;33.4;0;no;southwest;3172.018;1.0;obese;no children;8.062123257391853;no
+29;male;29.64;1;no;northeast;20277.80751;1.0;overweight;up to 3 children;9.917282340913964;no
+25;male;45.54;2;yes;southeast;42112.2356;1.0;obese;up to 3 children;10.648093609274202;yes_obese
+22;female;28.82;0;no;southeast;2156.7518;0.0;overweight;no children;7.67635857254542;no
+25;male;26.8;3;no;southwest;3906.127;1.0;overweight;up to 3 children;8.270301624988955;no
+18;male;22.99;0;no;northeast;1704.5681;0.0;normal;no children;7.44106704384527;no
+19;male;27.7;0;yes;southwest;16297.846;0.0;overweight;no children;9.698788230823373;yes_not_obese
+47;male;25.41;1;yes;southeast;21978.6769;3.0;overweight;up to 3 children;9.99782803051339;yes_not_obese
+31;male;34.39;3;yes;northwest;38746.3551;1.0;obese;up to 3 children;10.564791968421908;yes_obese
+48;female;28.88;1;no;northwest;9249.4952;3.0;overweight;up to 3 children;9.132324256044338;no
+36;male;27.55;3;no;northeast;6746.7425;2.0;overweight;up to 3 children;8.8168150747887;no
+53;female;22.61;3;yes;northeast;24873.3849;3.0;normal;up to 3 children;10.121553631275622;yes_not_obese
+56;female;37.51;2;no;southeast;12265.5069;4.0;obese;up to 3 children;9.414546284823487;no
+28;female;33.0;2;no;southeast;4349.462;1.0;obese;up to 3 children;8.377807438273036;no
+57;female;38.0;2;no;southwest;12646.207;4.0;obese;up to 3 children;9.445112607296863;no
+29;male;33.345;2;no;northwest;19442.3535;1.0;obese;up to 3 children;9.87520913550149;no
+28;female;27.5;2;no;southwest;20177.67113;1.0;overweight;up to 3 children;9.912331882391653;no
+30;female;33.33;1;no;southeast;4151.0287;1.0;obese;up to 3 children;8.331111462025765;no
+58;male;34.865;0;no;northeast;11944.59435;4.0;obese;no children;9.38803409936744;no
+41;female;33.06;2;no;northwest;7749.1564;2.0;obese;up to 3 children;8.955339264809723;no
+50;male;26.6;0;no;southwest;8444.474;3.0;overweight;no children;9.041267541926123;no
+19;female;24.7;0;no;southwest;1737.376;0.0;normal;no children;7.460131207985733;no
+43;male;35.97;3;yes;southeast;42124.5153;2.0;obese;up to 3 children;10.648385161357012;yes_obese
+49;male;35.86;0;no;southeast;8124.4084;3.0;obese;no children;9.002628192239301;no
+27;female;31.4;0;yes;southwest;34838.873;1.0;obese;no children;10.458489082567231;yes_obese
+52;male;33.25;0;no;northeast;9722.7695;3.0;obese;no children;9.182225784853754;no
+50;male;32.205;0;no;northwest;8835.26495;3.0;obese;no children;9.086506372985527;no
+54;male;32.775;0;no;northeast;10435.06525;4.0;obese;no children;9.25292707248648;no
+44;female;27.645;0;no;northwest;7421.19455;3.0;overweight;no children;8.912095313769873;no
+32;male;37.335;1;no;northeast;4667.60765;1.0;obese;up to 3 children;8.448401938888532;no
+34;male;25.27;1;no;northwest;4894.7533;2.0;overweight;up to 3 children;8.495919155328892;no
+26;female;29.64;4;no;northeast;24671.66334;1.0;overweight;more than 3 children;10.11341063084194;no
+34;male;30.8;0;yes;southwest;35491.64;2.0;obese;no children;10.47705245477294;yes_obese
+57;male;40.945;0;no;northeast;11566.30055;4.0;obese;no children;9.35585102402813;no
+29;male;27.2;0;no;southwest;2866.091;1.0;overweight;no children;7.960704359454179;no
+40;male;34.105;1;no;northeast;6600.20595;2.0;obese;up to 3 children;8.79485613207312;no
+27;female;23.21;1;no;southeast;3561.8889;1.0;normal;up to 3 children;8.178046273020675;no
+45;male;36.48;2;yes;northwest;42760.5022;3.0;obese;up to 3 children;10.663370109691156;yes_obese
+64;female;33.8;1;yes;southwest;47928.03;4.0;obese;up to 3 children;10.777455789702474;yes_obese
+52;male;36.7;0;no;southwest;9144.565;3.0;obese;no children;9.120914992717132;no
+61;female;36.385;1;yes;northeast;48517.56315;4.0;obese;up to 3 children;10.789681138177611;yes_obese
+52;male;27.36;0;yes;northwest;24393.6224;3.0;overweight;no children;10.102077000067178;yes_not_obese
+61;female;31.16;0;no;northwest;13429.0354;4.0;obese;no children;9.505174462663783;no
+56;female;28.785;0;no;northeast;11658.37915;4.0;overweight;no children;9.363780440807814;no
+43;female;35.72;2;no;northeast;19144.57652;2.0;obese;up to 3 children;9.859774744053276;no
+64;male;34.5;0;no;southwest;13822.803;4.0;obese;no children;9.534074898753166;no
+60;male;25.74;0;no;southeast;12142.5786;4.0;overweight;no children;9.404473447330512;no
+62;male;27.55;1;no;northwest;13937.6665;4.0;overweight;up to 3 children;9.54235027431946;no
+50;male;32.3;1;yes;northeast;41919.097;3.0;obese;up to 3 children;10.643496777732379;yes_obese
+46;female;27.72;1;no;southeast;8232.6388;3.0;overweight;up to 3 children;9.015861874114465;no
+24;female;27.6;0;no;southwest;18955.22017;1.0;overweight;no children;9.849834643287883;no
+62;male;30.02;0;no;northwest;13352.0998;4.0;obese;no children;9.499428939849388;no
+60;female;27.55;0;no;northeast;13217.0945;4.0;overweight;no children;9.489266308614972;no
+63;male;36.765;0;no;northeast;13981.85035;4.0;obese;no children;9.545515363967878;no
+49;female;41.47;4;no;southeast;10977.2063;3.0;obese;more than 3 children;9.303576247352384;no
+34;female;29.26;3;no;southeast;6184.2994;2.0;overweight;up to 3 children;8.729769004360477;no
+33;male;35.75;2;no;southeast;4889.9995;1.0;obese;up to 3 children;8.494947480219423;no
+46;male;33.345;1;no;northeast;8334.45755;3.0;obese;up to 3 children;9.028153712083231;no
+36;female;29.92;1;no;southeast;5478.0368;2.0;overweight;up to 3 children;8.608502067580671;no
+19;male;27.835;0;no;northwest;1635.73365;0.0;overweight;no children;7.3998466982849465;no
+57;female;23.18;0;no;northwest;11830.6072;4.0;normal;no children;9.378445282789643;no
+50;female;25.6;0;no;southwest;8932.084;3.0;overweight;no children;9.097405017304542;no
+30;female;27.7;0;no;southwest;3554.203;1.0;overweight;no children;8.175886125822831;no
+33;male;35.245;0;no;northeast;12404.8791;1.0;obese;no children;9.425845150008275;no
+18;female;38.28;0;no;southeast;14133.03775;0.0;obese;no children;9.556270438418146;no
+46;male;27.6;0;no;southwest;24603.04837;3.0;overweight;no children;10.110625631722993;no
+46;male;43.89;3;no;southeast;8944.1151;3.0;obese;up to 3 children;9.09875106427451;no
+47;male;29.83;3;no;northwest;9620.3307;3.0;overweight;up to 3 children;9.171633919368277;no
+23;male;41.91;0;no;southeast;1837.2819;0.0;obese;no children;7.516042530164765;no
+18;female;20.79;0;no;southeast;1607.5101;0.0;normal;no children;7.382441739140248;no
+48;female;32.3;2;no;northeast;10043.249;3.0;obese;up to 3 children;9.214655946474418;no
+35;male;30.5;1;no;southwest;4751.07;2.0;obese;up to 3 children;8.466125134818647;no
+19;female;21.7;0;yes;southwest;13844.506;0.0;normal;no children;9.535643754217315;yes_not_obese
+21;female;26.4;1;no;southwest;2597.779;0.0;overweight;up to 3 children;7.862412128177326;no
+21;female;21.89;2;no;southeast;3180.5101;0.0;normal;up to 3 children;8.064796871715137;no
+49;female;30.78;1;no;northeast;9778.3472;3.0;obese;up to 3 children;9.18792575079209;no
+56;female;32.3;3;no;northeast;13430.265;4.0;obese;up to 3 children;9.50526602126602;no
+42;female;24.985;2;no;northwest;8017.06115;2.0;normal;up to 3 children;8.989327193555336;no
+44;male;32.015;2;no;northwest;8116.26885;3.0;obese;up to 3 children;9.001625826321154;no
+18;male;30.4;3;no;northeast;3481.868;0.0;obese;up to 3 children;8.155324210362002;no
+61;female;21.09;0;no;northwest;13415.0381;4.0;normal;no children;9.504131602960053;no
+57;female;22.23;0;no;northeast;12029.2867;4.0;normal;no children;9.395099513777716;no
+42;female;33.155;1;no;northeast;7639.41745;2.0;obese;up to 3 children;8.941076629253388;no
+26;male;32.9;2;yes;southwest;36085.219;1.0;obese;up to 3 children;10.493638614491699;yes_obese
+20;male;33.33;0;no;southeast;1391.5287;0.0;obese;no children;7.238158205977826;no
+23;female;28.31;0;yes;northwest;18033.9679;0.0;overweight;no children;9.800012364087102;yes_not_obese
+39;female;24.89;3;yes;northeast;21659.9301;2.0;normal;up to 3 children;9.98321929340296;yes_not_obese
+24;male;40.15;0;yes;southeast;38126.2465;1.0;obese;no children;10.548658208457207;yes_obese
+64;female;30.115;3;no;northwest;16455.70785;4.0;obese;up to 3 children;9.708427677772185;no
+62;male;31.46;1;no;southeast;27000.98473;4.0;obese;up to 3 children;10.203628615802879;no
+27;female;17.955;2;yes;northeast;15006.57945;1.0;underweight;up to 3 children;9.61624401391433;yes_not_obese
+55;male;30.685;0;yes;northeast;42303.69215;4.0;obese;no children;10.652629646095242;yes_obese
+55;male;33.0;0;no;southeast;20781.48892;4.0;obese;no children;9.94181791367443;no
+35;female;43.34;2;no;southeast;5846.9176;2.0;obese;up to 3 children;8.673669895379257;no
+44;male;22.135;2;no;northeast;8302.53565;3.0;normal;up to 3 children;9.024316247129066;no
+19;male;34.4;0;no;southwest;1261.859;0.0;obese;no children;7.140341309442387;no
+58;female;39.05;0;no;southeast;11856.4115;4.0;obese;no children;9.380624055098195;no
+50;male;25.365;2;no;northwest;30284.64294;3.0;overweight;up to 3 children;10.318396029350499;no
+26;female;22.61;0;no;northwest;3176.8159;1.0;normal;no children;8.06363468484103;no
+24;female;30.21;3;no;northwest;4618.0799;1.0;obese;up to 3 children;8.437734291627043;no
+48;male;35.625;4;no;northeast;10736.87075;3.0;obese;more than 3 children;9.281438961548512;no
+19;female;37.43;0;no;northwest;2138.0707;0.0;obese;no children;7.667659159326367;no
+48;male;31.445;1;no;northeast;8964.06055;3.0;obese;up to 3 children;9.10097858969497;no
+49;male;31.35;1;no;northeast;9290.1395;3.0;obese;up to 3 children;9.136708847841536;no
+46;female;32.3;2;no;northeast;9411.005;3.0;obese;up to 3 children;9.149635028151815;no
+46;male;19.855;0;no;northwest;7526.70645;3.0;normal;no children;8.926212834672594;no
+43;female;34.4;3;no;southwest;8522.003;2.0;obese;up to 3 children;9.050406686089836;no
+21;male;31.02;0;no;southeast;16586.49771;0.0;obese;no children;9.716344252398859;no
+64;male;25.6;2;no;southwest;14988.432;4.0;overweight;up to 3 children;9.615033982556648;no
+18;female;38.17;0;no;southeast;1631.6683;0.0;obese;no children;7.3973582673174505;no
+51;female;20.6;0;no;southwest;9264.797;3.0;normal;no children;9.13397722806388;no
+47;male;47.52;1;no;southeast;8083.9198;3.0;obese;up to 3 children;8.997632157643029;no
+64;female;32.965;0;no;northwest;14692.66935;4.0;obese;no children;9.5951039647093;no
+49;male;32.3;3;no;northwest;10269.46;3.0;obese;up to 3 children;9.23692972120915;no
+31;male;20.4;0;no;southwest;3260.199;1.0;normal;no children;8.089543515442493;no
+52;female;38.38;2;no;northeast;11396.9002;3.0;obese;up to 3 children;9.341096685127038;no
+33;female;24.31;0;no;southeast;4185.0979;1.0;normal;no children;8.339285375720452;no
+47;female;23.6;1;no;southwest;8539.671;3.0;normal;up to 3 children;9.05247776145036;no
+38;male;21.12;3;no;southeast;6652.5288;2.0;normal;up to 3 children;8.802752332042022;no
+32;male;30.03;1;no;southeast;4074.4537;1.0;obese;up to 3 children;8.312491955338244;no
+19;male;17.48;0;no;northwest;1621.3402;0.0;underweight;no children;7.391008370166293;no
+44;female;20.235;1;yes;northeast;19594.80965;3.0;normal;up to 3 children;9.88301999637374;yes_not_obese
+26;female;17.195;2;yes;northeast;14455.64405;1.0;underweight;up to 3 children;9.578840208975;yes_not_obese
+25;male;23.9;5;no;southwest;5080.096;1.0;normal;more than 3 children;8.533085438031765;no
+19;female;35.15;0;no;northwest;2134.9015;0.0;obese;no children;7.6661757887670525;no
+43;female;35.64;1;no;southeast;7345.7266;2.0;obese;up to 3 children;8.901874008153671;no
+52;male;34.1;0;no;southeast;9140.951;3.0;obese;no children;9.120519707175607;no
+36;female;22.6;2;yes;southwest;18608.262;2.0;normal;up to 3 children;9.83136095462493;yes_not_obese
+64;male;39.16;1;no;southeast;14418.2804;4.0;obese;up to 3 children;9.576252152687747;no
+63;female;26.98;0;yes;northwest;28950.4692;4.0;overweight;no children;10.273341690123692;yes_not_obese
+64;male;33.88;0;yes;southeast;46889.2612;4.0;obese;no children;10.755543955934765;yes_obese
+61;male;35.86;0;yes;southeast;46599.1084;4.0;obese;no children;10.749336686883488;yes_obese
+40;male;32.775;1;yes;northeast;39125.33225;2.0;obese;up to 3 children;10.574525419819176;yes_obese
+25;male;30.59;0;no;northeast;2727.3951;1.0;obese;no children;7.9111022568392935;no
+48;male;30.2;2;no;southwest;8968.33;3.0;obese;up to 3 children;9.101454761577214;no
+45;male;24.31;5;no;southeast;9788.8659;3.0;normal;more than 3 children;9.189000886117643;no
+38;female;27.265;1;no;northeast;6555.07035;2.0;overweight;up to 3 children;8.787994128405655;no
+18;female;29.165;0;no;northeast;7323.734819;0.0;overweight;no children;8.898875698011654;no
+21;female;16.815;1;no;northeast;3167.45585;0.0;underweight;up to 3 children;8.0606839736609;no
+27;female;30.4;3;no;northwest;18804.7524;1.0;obese;up to 3 children;9.841864904106775;no
+19;male;33.1;0;no;southwest;23082.95533;0.0;obese;no children;10.046849759651726;no
+29;female;20.235;2;no;northwest;4906.40965;1.0;normal;up to 3 children;8.498297721128688;no
+42;male;26.9;0;no;southwest;5969.723;2.0;overweight;no children;8.69445580665023;no
+60;female;30.5;0;no;southwest;12638.195;4.0;obese;no children;9.444478856870957;no
+31;male;28.595;1;no;northwest;4243.59005;1.0;overweight;up to 3 children;8.353164899875043;no
+60;male;33.11;3;no;southeast;13919.8229;4.0;obese;up to 3 children;9.541069211106327;no
+22;male;31.73;0;no;northeast;2254.7967;0.0;obese;no children;7.72081509266191;no
+35;male;28.9;3;no;southwest;5926.846;2.0;overweight;up to 3 children;8.68724747865966;no
+52;female;46.75;5;no;southeast;12592.5345;3.0;obese;more than 3 children;9.44085941734208;no
+26;male;29.45;0;no;northeast;2897.3235;1.0;overweight;no children;7.971542658777002;no
+31;female;32.68;1;no;northwest;4738.2682;1.0;obese;up to 3 children;8.4634269892796;no
+33;female;33.5;0;yes;southwest;37079.372;1.0;obese;no children;10.52081608318254;yes_obese
+18;male;43.01;0;no;southeast;1149.3959;0.0;obese;no children;7.0469917789888035;no
+59;female;36.52;1;no;southeast;28287.89766;4.0;obese;up to 3 children;10.250189347642364;no
+56;male;26.695;1;yes;northwest;26109.32905;4.0;overweight;up to 3 children;10.170047964312062;yes_not_obese
+45;female;33.1;0;no;southwest;7345.084;3.0;obese;no children;8.901786524893842;no
+60;male;29.64;0;no;northeast;12730.9996;4.0;overweight;no children;9.451795211642274;no
+56;female;25.65;0;no;northwest;11454.0215;4.0;overweight;no children;9.346096170025552;no
+40;female;29.6;0;no;southwest;5910.944;2.0;overweight;no children;8.6845608269172;no
+35;male;38.6;1;no;southwest;4762.329;2.0;obese;up to 3 children;8.468492113278527;no
+39;male;29.6;4;no;southwest;7512.267;2.0;overweight;more than 3 children;8.924292563387446;no
+30;male;24.13;1;no;northwest;4032.2407;1.0;normal;up to 3 children;8.30207750539002;no
+24;male;23.4;0;no;southwest;1969.614;1.0;normal;no children;7.585592863447169;no
+20;male;29.735;0;no;northwest;1769.53165;0.0;overweight;no children;7.478470186034148;no
+32;male;46.53;2;no;southeast;4686.3887;1.0;obese;up to 3 children;8.45241756483806;no
+59;male;37.4;0;no;southwest;21797.0004;4.0;obese;no children;9.989527642979661;no
+55;female;30.14;2;no;southeast;11881.9696;4.0;obese;up to 3 children;9.382777370420577;no
+57;female;30.495;0;no;northwest;11840.77505;4.0;obese;no children;9.37930436659962;no
+56;male;39.6;0;no;southwest;10601.412;4.0;obese;no children;9.268742478775991;no
+40;female;33.0;3;no;southeast;7682.67;2.0;obese;up to 3 children;8.946722421973286;no
+49;female;36.63;3;no;southeast;10381.4787;3.0;obese;up to 3 children;9.247778603221294;no
+42;male;30.0;0;yes;southwest;22144.032;2.0;obese;no children;10.005323303503058;yes_obese
+62;female;38.095;2;no;northeast;15230.32405;4.0;obese;up to 3 children;9.631043722747554;no
+56;male;25.935;0;no;northeast;11165.41765;4.0;overweight;no children;9.320576570650314;no
+19;male;25.175;0;no;northwest;1632.03625;0.0;overweight;no children;7.3975837472871735;no
+30;female;28.38;1;yes;southeast;19521.9682;1.0;overweight;up to 3 children;9.879295684802122;yes_not_obese
+60;female;28.7;1;no;southwest;13224.693;4.0;overweight;up to 3 children;9.489841042846473;no
+56;female;33.82;2;no;northwest;12643.3778;4.0;obese;up to 3 children;9.44488886301366;no
+28;female;24.32;1;no;northeast;23288.9284;1.0;normal;up to 3 children;10.05573335065625;no
+18;female;24.09;1;no;southeast;2201.0971;0.0;normal;up to 3 children;7.6967111968641335;no
+27;male;32.67;0;no;southeast;2497.0383;1.0;obese;no children;7.822860628568228;no
+18;female;30.115;0;no;northeast;2203.47185;0.0;obese;no children;7.697789509069965;no
+19;female;29.8;0;no;southwest;1744.465;0.0;overweight;no children;7.464203197370246;no
+47;female;33.345;0;no;northeast;20878.78443;3.0;obese;no children;9.94648882334788;no
+54;male;25.1;3;yes;southwest;25382.297;4.0;overweight;up to 3 children;10.14180724150723;yes_not_obese
+61;male;28.31;1;yes;northwest;28868.6639;4.0;overweight;up to 3 children;10.27051199171073;yes_not_obese
+24;male;28.5;0;yes;northeast;35147.52848;1.0;overweight;no children;10.467309581253186;yes_not_obese
+25;male;35.625;0;no;northwest;2534.39375;1.0;obese;no children;7.837709735550147;no
+21;male;36.85;0;no;southeast;1534.3045;0.0;obese;no children;7.335832462880444;no
+23;male;32.56;0;no;southeast;1824.2854;0.0;obese;no children;7.508943627692479;no
+63;male;41.325;3;no;northwest;15555.18875;4.0;obese;up to 3 children;9.652149543620059;no
+49;male;37.51;2;no;southeast;9304.7019;3.0;obese;up to 3 children;9.138275132023676;no
+18;female;31.35;0;no;southeast;1622.1885;0.0;obese;no children;7.391531442472909;no
+51;female;39.5;1;no;southwest;9880.068;3.0;obese;up to 3 children;9.19827467330932;no
+48;male;34.3;3;no;southwest;9563.029;3.0;obese;up to 3 children;9.16565979686612;no
+31;female;31.065;0;no;northeast;4347.02335;1.0;obese;no children;8.377246602494955;no
+54;female;21.47;3;no;northwest;12475.3513;4.0;normal;up to 3 children;9.431510080543866;no
+19;male;28.7;0;no;southwest;1253.936;0.0;overweight;no children;7.134042683207834;no
+44;female;38.06;0;yes;southeast;48885.13561;3.0;obese;no children;10.797228653997497;yes_obese
+53;male;31.16;1;no;northwest;10461.9794;3.0;obese;up to 3 children;9.255502954897839;no
+19;female;32.9;0;no;southwest;1748.774;0.0;obese;no children;7.466670249974151;no
+61;female;25.08;0;no;southeast;24513.09126;4.0;overweight;no children;10.106962590968418;no
+18;female;25.08;0;no;northeast;2196.4732;0.0;overweight;no children;7.69460826211217;no
+61;male;43.4;0;no;southwest;12574.049;4.0;obese;no children;9.439390365865586;no
+21;male;25.7;4;yes;southwest;17942.106;0.0;overweight;more than 3 children;9.794905520027315;yes_not_obese
+20;male;27.93;0;no;northeast;1967.0227;0.0;overweight;no children;7.584276358739348;no
+31;female;23.6;2;no;southwest;4931.647;1.0;normal;up to 3 children;8.503428288324521;no
+45;male;28.7;2;no;southwest;8027.968;3.0;overweight;up to 3 children;8.990686723859456;no
+44;female;23.98;2;no;southeast;8211.1002;3.0;normal;up to 3 children;9.013242200776457;no
+62;female;39.2;0;no;southwest;13470.86;4.0;obese;no children;9.508284112949143;no
+29;male;34.4;0;yes;southwest;36197.699;1.0;obese;no children;10.496750832257703;yes_obese
+43;male;26.03;0;no;northeast;6837.3687;2.0;overweight;no children;8.830158243620813;no
+51;male;23.21;1;yes;southeast;22218.1149;3.0;normal;up to 3 children;10.008663221610878;yes_not_obese
+19;male;30.25;0;yes;southeast;32548.3405;0.0;obese;no children;10.390481663234114;yes_obese
+38;female;28.93;1;no;southeast;5974.3847;2.0;overweight;up to 3 children;8.695236392417504;no
+37;male;30.875;3;no;northwest;6796.86325;2.0;obese;up to 3 children;8.824216497974023;no
+22;male;31.35;1;no;northwest;2643.2685;0.0;obese;up to 3 children;7.879771498547758;no
+21;male;23.75;2;no;northwest;3077.0955;0.0;normal;up to 3 children;8.031741411564495;no
+24;female;25.27;0;no;northeast;3044.2133;1.0;overweight;no children;8.020997788799955;no
+57;female;28.7;0;no;southwest;11455.28;4.0;overweight;no children;9.346206038063324;no
+56;male;32.11;1;no;northeast;11763.0009;4.0;obese;up to 3 children;9.372714367471533;no
+27;male;33.66;0;no;southeast;2498.4144;1.0;obese;no children;7.82341156964102;no
+51;male;22.42;0;no;northeast;9361.3268;3.0;normal;no children;9.144342311562506;no
+19;male;30.4;0;no;southwest;1256.299;0.0;obese;no children;7.135925376021836;no
+39;male;28.3;1;yes;southwest;21082.16;2.0;overweight;up to 3 children;9.956182464199104;yes_not_obese
+58;male;35.7;0;no;southwest;11362.755;4.0;obese;no children;9.338096180478136;no
+20;male;35.31;1;no;southeast;27724.28875;0.0;obese;up to 3 children;10.230064158147394;no
+45;male;30.495;2;no;northwest;8413.46305;3.0;obese;up to 3 children;9.037588445855505;no
+35;female;31.0;1;no;southwest;5240.765;2.0;obese;up to 3 children;8.564222759025652;no
+31;male;30.875;0;no;northeast;3857.75925;1.0;obese;no children;8.25784178871916;no
+50;female;27.36;0;no;northeast;25656.57526;3.0;overweight;no children;10.152555163167145;no
+32;female;44.22;0;no;southeast;3994.1778;1.0;obese;no children;8.29259302976008;no
+51;female;33.915;0;no;northeast;9866.30485;3.0;obese;no children;9.19688068036355;no
+38;female;37.73;0;no;southeast;5397.6167;2.0;obese;no children;8.593712783276118;no
+42;male;26.07;1;yes;southeast;38245.59327;2.0;overweight;up to 3 children;10.551783623990207;yes_not_obese
+18;female;33.88;0;no;southeast;11482.63485;0.0;obese;no children;9.348591160089185;no
+19;female;30.59;2;no;northwest;24059.68019;0.0;obese;up to 3 children;10.088292697254127;no
+51;female;25.8;1;no;southwest;9861.025;3.0;overweight;up to 3 children;9.19634539756895;no
+46;male;39.425;1;no;northeast;8342.90875;3.0;obese;up to 3 children;9.029167205529545;no
+18;male;25.46;0;no;northeast;1708.0014;0.0;overweight;no children;7.44307919402031;no
+57;male;42.13;1;yes;southeast;48675.5177;4.0;obese;up to 3 children;10.792931466033865;yes_obese
+62;female;31.73;0;no;northeast;14043.4767;4.0;obese;no children;9.549913275130127;no
+59;male;29.7;2;no;southeast;12925.886;4.0;overweight;up to 3 children;9.46698724635025;no
+37;male;36.19;0;no;southeast;19214.70553;2.0;obese;no children;9.86343117787501;no
+64;male;40.48;0;no;southeast;13831.1152;4.0;obese;no children;9.534676057705775;no
+38;male;28.025;1;no;northeast;6067.12675;2.0;overweight;up to 3 children;8.710640419433316;no
+33;female;38.9;3;no;southwest;5972.378;1.0;obese;up to 3 children;8.694900452034446;no
+46;female;30.2;2;no;southwest;8825.086;3.0;obese;up to 3 children;9.085353626796508;no
+46;female;28.05;1;no;southeast;8233.0975;3.0;overweight;up to 3 children;9.015917589813023;no
+53;male;31.35;0;no;southeast;27346.04207;3.0;obese;no children;10.216327083301252;no
+34;female;38.0;3;no;southwest;6196.448;2.0;obese;up to 3 children;8.731731503635617;no
+20;female;31.79;2;no;southeast;3056.3881;0.0;obese;up to 3 children;8.024989138296391;no
+63;female;36.3;0;no;southeast;13887.204;4.0;obese;no children;9.538723119589323;no
+54;female;47.41;0;yes;southeast;63770.42801;4.0;obese;no children;11.063044851063491;yes_obese
+54;male;30.21;0;no;northwest;10231.4999;4.0;obese;no children;9.233226465989146;no
+49;male;25.84;2;yes;northwest;23807.2406;3.0;overweight;up to 3 children;10.077745040282705;yes_not_obese
+28;male;35.435;0;no;northeast;3268.84665;1.0;obese;no children;8.092192495253741;no
+54;female;46.7;2;no;southwest;11538.421;4.0;obese;up to 3 children;9.35343770227735;no
+25;female;28.595;0;no;northeast;3213.62205;1.0;overweight;no children;8.075153944485312;no
+43;female;46.2;0;yes;southeast;45863.205;2.0;obese;no children;10.733418440581366;yes_obese
+63;male;30.8;0;no;southwest;13390.559;4.0;obese;no children;9.502305185386628;no
+32;female;28.93;0;no;southeast;3972.9247;1.0;overweight;no children;8.287257802702698;no
+62;male;21.4;0;no;southwest;12957.118;4.0;normal;no children;9.469400568633725;no
+52;female;31.73;2;no;northwest;11187.6567;3.0;obese;up to 3 children;9.322566369188928;no
+25;female;41.325;0;no;northeast;17878.90068;1.0;obese;no children;9.791376563615858;no
+28;male;23.8;2;no;southwest;3847.674;1.0;normal;up to 3 children;8.255224088861992;no
+46;male;33.44;1;no;northeast;8334.5896;3.0;obese;up to 3 children;9.028169555820288;no
+34;male;34.21;0;no;southeast;3935.1799;2.0;obese;no children;8.27771187772261;no
+35;female;34.105;3;yes;northwest;39983.42595;2.0;obese;up to 3 children;10.596220295978874;yes_obese
+19;male;35.53;0;no;northwest;1646.4297;0.0;obese;no children;7.406364404275679;no
+46;female;19.95;2;no;northwest;9193.8385;3.0;normal;up to 3 children;9.126288810408107;no
+54;female;32.68;0;no;northeast;10923.9332;4.0;obese;no children;9.298711367598699;no
+27;male;30.5;0;no;southwest;2494.022;1.0;obese;no children;7.821651947371885;no
+50;male;44.77;1;no;southeast;9058.7303;3.0;obese;up to 3 children;9.11148424572815;no
+18;female;32.12;2;no;southeast;2801.2588;0.0;obese;up to 3 children;7.93782416656491;no
+19;female;30.495;0;no;northwest;2128.43105;0.0;obese;no children;7.663140391039033;no
+38;female;40.565;1;no;northwest;6373.55735;2.0;obese;up to 3 children;8.759913046378147;no
+41;male;30.59;2;no;northwest;7256.7231;2.0;obese;up to 3 children;8.889683642287249;no
+49;female;31.9;5;no;southwest;11552.904;3.0;obese;more than 3 children;9.354692112918501;no
+48;male;40.565;2;yes;northwest;45702.02235;3.0;obese;up to 3 children;10.729897828638402;yes_obese
+31;female;29.1;0;no;southwest;3761.292;1.0;overweight;no children;8.232517794382408;no
+18;female;37.29;1;no;southeast;2219.4451;0.0;obese;up to 3 children;7.705012488667424;no
+30;female;43.12;2;no;southeast;4753.6368;1.0;obese;up to 3 children;8.466665246179556;no
+62;female;36.86;1;no;northeast;31620.00106;4.0;obese;up to 3 children;10.361545144286548;no
+57;female;34.295;2;no;northeast;13224.05705;4.0;obese;up to 3 children;9.489792953617386;no
+58;female;27.17;0;no;northwest;12222.8983;4.0;overweight;no children;9.411066381363035;no
+22;male;26.84;0;no;southeast;1664.9996;0.0;overweight;no children;7.417580162174275;no
+31;female;38.095;1;yes;northeast;58571.07448;1.0;obese;up to 3 children;10.977996244143489;yes_obese
+52;male;30.2;1;no;southwest;9724.53;3.0;obese;up to 3 children;9.182406838269918;no
+25;female;23.465;0;no;northeast;3206.49135;1.0;normal;no children;8.072932580939872;no
+59;male;25.46;1;no;northeast;12913.9924;4.0;overweight;up to 3 children;9.466066684677644;no
+19;male;30.59;0;no;northwest;1639.5631;0.0;obese;no children;7.402185082887787;no
+39;male;45.43;2;no;southeast;6356.2707;2.0;obese;up to 3 children;8.757197116428735;no
+32;female;23.65;1;no;southeast;17626.23951;1.0;normal;up to 3 children;9.777143952016166;no
+19;male;20.7;0;no;southwest;1242.816;0.0;normal;no children;7.125135051591155;no
+33;female;28.27;1;no;southeast;4779.6023;1.0;overweight;up to 3 children;8.4721126211873;no
+21;male;20.235;3;no;northeast;3861.20965;0.0;normal;up to 3 children;8.258735794194376;no
+34;female;30.21;1;yes;northwest;43943.8761;2.0;obese;up to 3 children;10.69066855552094;yes_obese
+61;female;35.91;0;no;northeast;13635.6379;4.0;obese;no children;9.520442078197085;no
+38;female;30.69;1;no;southeast;5976.8311;2.0;obese;up to 3 children;8.695645790101407;no
+58;female;29.0;0;no;southwest;11842.442;4.0;overweight;no children;9.37944513717139;no
+47;male;19.57;1;no;northwest;8428.0693;3.0;normal;up to 3 children;9.039322997481637;no
+20;male;31.13;2;no;southeast;2566.4707;0.0;obese;up to 3 children;7.850286965609456;no
+21;female;21.85;1;yes;northeast;15359.1045;0.0;normal;up to 3 children;9.639463704220857;yes_not_obese
+41;male;40.26;0;no;southeast;5709.1644;2.0;obese;no children;8.649827952186532;no
+46;female;33.725;1;no;northeast;8823.98575;3.0;obese;up to 3 children;9.085228946018162;no
+42;female;29.48;2;no;southeast;7640.3092;2.0;overweight;up to 3 children;8.941193352545817;no
+34;female;33.25;1;no;northeast;5594.8455;2.0;obese;up to 3 children;8.629601006423735;no
+43;male;32.6;2;no;southwest;7441.501;2.0;obese;up to 3 children;8.914827854790714;no
+52;female;37.525;2;no;northwest;33471.97189;3.0;obese;up to 3 children;10.418463707617837;no
+18;female;39.16;0;no;southeast;1633.0444;0.0;obese;no children;7.398201281823135;no
+51;male;31.635;0;no;northwest;9174.13565;3.0;obese;no children;9.124143461400536;no
+56;female;25.3;0;no;southwest;11070.535;4.0;overweight;no children;9.312042353351504;no
+64;female;39.05;3;no;southeast;16085.1275;4.0;obese;up to 3 children;9.685650366281438;no
+19;female;28.31;0;yes;northwest;17468.9839;0.0;overweight;no children;9.768182238872198;yes_not_obese
+51;female;34.1;0;no;southeast;9283.562;3.0;obese;no children;9.13600058834087;no
+27;female;25.175;0;no;northeast;3558.62025;1.0;overweight;no children;8.177128178496606;no
+59;female;23.655;0;yes;northwest;25678.77845;4.0;normal;no children;10.15342018852608;yes_not_obese
+28;male;26.98;2;no;northeast;4435.0942;1.0;overweight;up to 3 children;8.3973041346534;no
+30;male;37.8;2;yes;southwest;39241.442;1.0;obese;up to 3 children;10.577488661220206;yes_obese
+47;female;29.37;1;no;southeast;8547.6913;3.0;overweight;up to 3 children;9.053416502076113;no
+38;female;34.8;2;no;southwest;6571.544;2.0;obese;up to 3 children;8.790504091479043;no
+18;female;33.155;0;no;northeast;2207.69745;0.0;obese;no children;7.6997053735517555;no
+34;female;19.0;3;no;northeast;6753.038;2.0;normal;up to 3 children;8.817747756687693;no
+20;female;33.0;0;no;southeast;1880.07;0.0;obese;no children;7.539064289173378;no
+47;female;36.63;1;yes;southeast;42969.8527;3.0;obese;up to 3 children;10.66825404879016;yes_obese
+56;female;28.595;0;no;northeast;11658.11505;4.0;overweight;no children;9.36375778731645;no
+49;male;25.6;2;yes;southwest;23306.547;3.0;overweight;up to 3 children;10.056489587208766;yes_not_obese
+19;female;33.11;0;yes;southeast;34439.8559;0.0;obese;no children;10.446969774444645;yes_obese
+55;female;37.1;0;no;southwest;10713.644;4.0;obese;no children;9.279273348336124;no
+30;male;31.4;1;no;southwest;3659.346;1.0;obese;up to 3 children;8.205039721904125;no
+37;male;34.1;4;yes;southwest;40182.246;2.0;obese;more than 3 children;10.601180535263609;yes_obese
+49;female;21.3;1;no;southwest;9182.17;3.0;normal;up to 3 children;9.125018839122639;no
+18;male;33.535;0;yes;northeast;34617.84065;0.0;obese;no children;10.452124453879096;yes_obese
+59;male;28.785;0;no;northwest;12129.61415;4.0;overweight;no children;9.403405191869094;no
+29;female;26.03;0;no;northwest;3736.4647;1.0;overweight;no children;8.225895175981947;no
+36;male;28.88;3;no;northeast;6748.5912;2.0;overweight;up to 3 children;8.81708905097227;no
+33;male;42.46;1;no;southeast;11326.71487;1.0;obese;up to 3 children;9.334919362287428;no
+58;male;38.0;0;no;southwest;11365.952;4.0;obese;no children;9.338377498726558;no
+44;female;38.95;0;yes;northwest;42983.4585;3.0;obese;no children;10.66857063461853;yes_obese
+53;male;36.1;1;no;southwest;10085.846;3.0;obese;up to 3 children;9.218888333830831;no
+24;male;29.3;0;no;southwest;1977.815;1.0;overweight;no children;7.5897479789915785;no
+29;female;35.53;0;no;southeast;3366.6697;1.0;obese;no children;8.121679315150935;no
+40;male;22.705;2;no;northeast;7173.35995;2.0;normal;up to 3 children;8.878129436102586;no
+51;male;39.7;1;no;southwest;9391.346;3.0;obese;up to 3 children;9.147543905912501;no
+64;male;38.19;0;no;northeast;14410.9321;4.0;obese;no children;9.575742371148683;no
+19;female;24.51;1;no;northwest;2709.1119;0.0;normal;up to 3 children;7.9043761479872545;no
+35;female;38.095;2;no;northeast;24915.04626;2.0;obese;up to 3 children;10.123227167426604;no
+39;male;26.41;0;yes;northeast;20149.3229;2.0;overweight;no children;9.910925963832568;yes_not_obese
+56;male;33.66;4;no;southeast;12949.1554;4.0;obese;more than 3 children;9.468785844923541;no
+33;male;42.4;5;no;southwest;6666.243;1.0;obese;more than 3 children;8.804811711848632;no
+42;male;28.31;3;yes;northwest;32787.45859;2.0;overweight;up to 3 children;10.397801361193013;yes_not_obese
+61;male;33.915;0;no;northeast;13143.86485;4.0;obese;no children;9.483710377406176;no
+23;female;34.96;3;no;northwest;4466.6214;0.0;obese;up to 3 children;8.404387562891182;no
+43;male;35.31;2;no;southeast;18806.14547;2.0;obese;up to 3 children;9.84193898210435;no
+48;male;30.78;3;no;northeast;10141.1362;3.0;obese;up to 3 children;9.22435532214995;no
+39;male;26.22;1;no;northwest;6123.5688;2.0;overweight;up to 3 children;8.719900342802815;no
+40;female;23.37;3;no;northeast;8252.2843;2.0;normal;up to 3 children;9.018245325851677;no
+18;male;28.5;0;no;northeast;1712.227;0.0;overweight;no children;7.445550141369896;no
+58;female;32.965;0;no;northeast;12430.95335;4.0;obese;no children;9.427944879069686;no
+49;female;42.68;2;no;southeast;9800.8882;3.0;obese;up to 3 children;9.190228293204834;no
+53;female;39.6;1;no;southeast;10579.711;3.0;obese;up to 3 children;9.266693389349228;no
+48;female;31.13;0;no;southeast;8280.6227;3.0;obese;no children;9.021673449865537;no
+45;female;36.3;2;no;southeast;8527.532;3.0;obese;up to 3 children;9.05105526685099;no
+59;female;35.2;0;no;southeast;12244.531;4.0;obese;no children;9.412834667305264;no
+52;female;25.3;2;yes;southeast;24667.419;3.0;overweight;up to 3 children;10.113238583053082;yes_not_obese
+26;female;42.4;1;no;southwest;3410.324;1.0;obese;up to 3 children;8.134562580426712;no
+27;male;33.155;2;no;northwest;4058.71245;1.0;obese;up to 3 children;8.308621071757383;no
+48;female;35.91;1;no;northeast;26392.26029;3.0;obese;up to 3 children;10.180826075318103;no
+57;female;28.785;4;no;northeast;14394.39815;4.0;overweight;more than 3 children;9.574594392516097;no
+37;male;46.53;3;no;southeast;6435.6237;2.0;obese;up to 3 children;8.769604038410412;no
+57;female;23.98;1;no;southeast;22192.43711;4.0;normal;up to 3 children;10.007506839098198;no
+32;female;31.54;1;no;northeast;5148.5526;1.0;obese;up to 3 children;8.54647090561255;no
+18;male;33.66;0;no;southeast;1136.3994;0.0;obese;no children;7.035620121996789;no
+64;female;22.99;0;yes;southeast;27037.9141;4.0;normal;no children;10.20499538590917;yes_not_obese
+43;male;38.06;2;yes;southeast;42560.4304;2.0;obese;up to 3 children;10.658680236746347;yes_obese
+49;male;28.7;1;no;southwest;8703.456;3.0;overweight;up to 3 children;9.071475467142518;no
+40;female;32.775;2;yes;northwest;40003.33225;2.0;obese;up to 3 children;10.5967180358763;yes_obese
+62;male;32.015;0;yes;northeast;45710.20785;4.0;obese;no children;10.730076918460497;yes_obese
+40;female;29.81;1;no;southeast;6500.2359;2.0;overweight;up to 3 children;8.779593747532871;no
+30;male;31.57;3;no;southeast;4837.5823;1.0;obese;up to 3 children;8.484170350113216;no
+29;female;31.16;0;no;northeast;3943.5954;1.0;obese;no children;8.279848124253304;no
+36;male;29.7;0;no;southeast;4399.731;2.0;overweight;no children;8.389298681673813;no
+41;female;31.02;0;no;southeast;6185.3208;2.0;obese;no children;8.7299341509027;no
+44;female;43.89;2;yes;southeast;46200.9851;3.0;obese;up to 3 children;10.740756399353332;yes_obese
+45;male;21.375;0;no;northwest;7222.78625;3.0;normal;no children;8.884996064646055;no
+55;female;40.81;3;no;southeast;12485.8009;4.0;obese;up to 3 children;9.43234734963519;no
+60;male;31.35;3;yes;northwest;46130.5265;4.0;obese;up to 3 children;10.739230189883656;yes_obese
+56;male;36.1;3;no;southwest;12363.547;4.0;obese;up to 3 children;9.422507663952521;no
+49;female;23.18;2;no;northwest;10156.7832;3.0;normal;up to 3 children;9.225897056826396;no
+21;female;17.4;1;no;southwest;2585.269;0.0;underweight;up to 3 children;7.857584843424017;no
+19;male;20.3;0;no;southwest;1242.26;0.0;normal;no children;7.124687580359468;no
+39;male;35.3;2;yes;southwest;40103.89;2.0;obese;up to 3 children;10.599228616071036;yes_obese
+53;male;24.32;0;no;northwest;9863.4718;3.0;normal;no children;9.196593495154136;no
+33;female;18.5;1;no;southwest;4766.022;1.0;normal;up to 3 children;8.469267273678248;no
+53;male;26.41;2;no;northeast;11244.3769;3.0;overweight;up to 3 children;9.327623451564245;no
+42;male;26.125;2;no;northeast;7729.64575;2.0;overweight;up to 3 children;8.952818312588256;no
+40;male;41.69;0;no;southeast;5438.7491;2.0;obese;no children;8.601304368555676;no
+47;female;24.1;1;no;southwest;26236.57997;3.0;normal;up to 3 children;10.174909898054338;no
+27;male;31.13;1;yes;southeast;34806.4677;1.0;obese;up to 3 children;10.457558501942229;yes_obese
+21;male;27.36;0;no;northeast;2104.1134;0.0;overweight;no children;7.651649469743594;no
+47;male;36.2;1;no;southwest;8068.185;3.0;obese;up to 3 children;8.995683828905412;no
+20;male;32.395;1;no;northwest;2362.22905;0.0;obese;up to 3 children;7.767360964960058;no
+24;male;23.655;0;no;northwest;2352.96845;1.0;normal;no children;7.763432980222679;no
+27;female;34.8;1;no;southwest;3577.999;1.0;obese;up to 3 children;8.18255898458288;no
+26;female;40.185;0;no;northwest;3201.24515;1.0;obese;no children;8.071295122479397;no
+53;female;32.3;2;no;northeast;29186.48236;3.0;obese;up to 3 children;10.281460948193155;no
+41;male;35.75;1;yes;southeast;40273.6455;2.0;obese;up to 3 children;10.603452576194714;yes_obese
+56;male;33.725;0;no;northwest;10976.24575;4.0;obese;no children;9.303488739474496;no
+23;female;39.27;2;no;southeast;3500.6123;0.0;obese;up to 3 children;8.16069317503393;no
+21;female;34.87;0;no;southeast;2020.5523;0.0;obese;no children;7.611126168865535;no
+50;female;44.745;0;no;northeast;9541.69555;3.0;obese;no children;9.163426479258085;no
+53;male;41.47;0;no;southeast;9504.3103;3.0;obese;no children;9.15950069048022;no
+34;female;26.41;1;no;northwest;5385.3379;2.0;overweight;up to 3 children;8.591435335997009;no
+47;female;29.545;1;no;northwest;8930.93455;3.0;overweight;up to 3 children;9.09727632125036;no
+33;female;32.9;2;no;southwest;5375.038;1.0;obese;up to 3 children;8.589520922738314;no
+51;female;38.06;0;yes;southeast;44400.4064;3.0;obese;no children;10.70100390153158;yes_obese
+49;male;28.69;3;no;northwest;10264.4421;3.0;overweight;up to 3 children;9.236440978243934;no
+31;female;30.495;3;no;northeast;6113.23105;1.0;obese;up to 3 children;8.71821072581372;no
+36;female;27.74;0;no;northeast;5469.0066;2.0;overweight;no children;8.60685227014802;no
+18;male;35.2;1;no;southeast;1727.54;0.0;obese;up to 3 children;7.454453710221802;no
+50;female;23.54;2;no;southeast;10107.2206;3.0;normal;up to 3 children;9.22100535829338;no
+43;female;30.685;2;no;northwest;8310.83915;2.0;obese;up to 3 children;9.02531586349737;no
+20;male;40.47;0;no;northeast;1984.4533;0.0;obese;no children;7.593098739570316;no
+24;female;22.6;0;no;southwest;2457.502;1.0;normal;no children;7.806900665856189;no
+60;male;28.9;0;no;southwest;12146.971;4.0;overweight;no children;9.404835117276658;no
+49;female;22.61;1;no;northwest;9566.9909;3.0;normal;up to 3 children;9.166074004491346;no
+60;male;24.32;1;no;northwest;13112.6048;4.0;normal;up to 3 children;9.481329245046304;no
+51;female;36.67;2;no;northwest;10848.1343;3.0;obese;up to 3 children;9.291748390265784;no
+58;female;33.44;0;no;northwest;12231.6136;4.0;obese;no children;9.41177915783591;no
+51;female;40.66;0;no;northeast;9875.6804;3.0;obese;no children;9.197830488661562;no
+53;male;36.6;3;no;southwest;11264.541;3.0;obese;up to 3 children;9.329415106363781;no
+62;male;37.4;0;no;southwest;12979.358;4.0;obese;no children;9.471115528326077;no
+19;male;35.4;0;no;southwest;1263.249;0.0;obese;no children;7.14144225256276;no
+50;female;27.075;1;no;northeast;10106.13425;3.0;overweight;up to 3 children;9.220897869951232;no
+30;female;39.05;3;yes;southeast;40932.4295;1.0;obese;up to 3 children;10.619677925164396;yes_obese
+41;male;28.405;1;no;northwest;6664.68595;2.0;overweight;up to 3 children;8.80457811222284;no
+29;female;21.755;1;yes;northeast;16657.71745;1.0;normal;up to 3 children;9.720628898531286;yes_not_obese
+18;female;40.28;0;no;northeast;2217.6012;0.0;obese;no children;7.704181350120979;no
+41;female;36.08;1;no;southeast;6781.3542;2.0;obese;up to 3 children;8.821932095503433;no
+35;male;24.42;3;yes;southeast;19361.9988;2.0;normal;up to 3 children;9.871067599302947;yes_not_obese
+53;male;21.4;1;no;southwest;10065.413;3.0;normal;up to 3 children;9.216860370515706;no
+24;female;30.1;3;no;southwest;4234.927;1.0;obese;up to 3 children;8.351121369629444;no
+48;female;27.265;1;no;northeast;9447.25035;3.0;overweight;up to 3 children;9.153479009894344;no
+59;female;32.1;3;no;southwest;14007.222;4.0;obese;up to 3 children;9.547328332731697;no
+49;female;34.77;1;no;northwest;9583.8933;3.0;obese;up to 3 children;9.167839187154692;no
+37;female;38.39;0;yes;southeast;40419.0191;2.0;obese;no children;10.607055722973884;yes_obese
+26;male;23.7;2;no;southwest;3484.331;1.0;normal;up to 3 children;8.156031339200162;no
+23;male;31.73;3;yes;northeast;36189.1017;0.0;obese;up to 3 children;10.496513294475752;yes_obese
+29;male;35.5;2;yes;southwest;44585.45587;1.0;obese;up to 3 children;10.705162983255969;yes_obese
+45;male;24.035;2;no;northeast;8604.48365;3.0;normal;up to 3 children;9.060038701034644;no
+27;male;29.15;0;yes;southeast;18246.4955;1.0;overweight;no children;9.811728313173756;yes_not_obese
+53;male;34.105;0;yes;northeast;43254.41795;3.0;obese;no children;10.674854656276105;yes_obese
+31;female;26.62;0;no;southeast;3757.8448;1.0;overweight;no children;8.231600880557536;no
+50;male;26.41;0;no;northwest;8827.2099;3.0;overweight;no children;9.085594264050979;no
+50;female;30.115;1;no;northwest;9910.35985;3.0;obese;up to 3 children;9.201335938471033;no
+34;male;27.0;2;no;southwest;11737.84884;2.0;overweight;up to 3 children;9.37057384320268;no
+19;male;21.755;0;no;northwest;1627.28245;0.0;normal;no children;7.394666693872962;no
+47;female;36.0;1;no;southwest;8556.907;3.0;obese;up to 3 children;9.054494072064031;no
+28;male;30.875;0;no;northwest;3062.50825;1.0;obese;no children;8.026989548726904;no
+37;female;26.4;0;yes;southeast;19539.243;2.0;overweight;no children;9.880180183802308;yes_not_obese
+21;male;28.975;0;no;northwest;1906.35825;0.0;overweight;no children;7.552950025628654;no
+64;male;37.905;0;no;northwest;14210.53595;4.0;obese;no children;9.561738936776804;no
+58;female;22.77;0;no;southeast;11833.7823;4.0;normal;no children;9.378713626920732;no
+24;male;33.63;4;no;northeast;17128.42608;1.0;obese;more than 3 children;9.748494706186174;no
+31;male;27.645;2;no;northeast;5031.26955;1.0;overweight;up to 3 children;8.52342762687361;no
+39;female;22.8;3;no;northeast;7985.815;2.0;normal;up to 3 children;8.985422121815146;no
+47;female;27.83;0;yes;southeast;23065.4207;3.0;overweight;no children;10.046089835582787;yes_not_obese
+30;male;37.43;3;no;northeast;5428.7277;1.0;obese;up to 3 children;8.599460076080982;no
+18;male;38.17;0;yes;southeast;36307.7983;0.0;obese;no children;10.499787826381556;yes_obese
+22;female;34.58;2;no;northeast;3925.7582;0.0;obese;up to 3 children;8.275314783535729;no
+23;male;35.2;1;no;southwest;2416.955;0.0;obese;up to 3 children;7.790263762408525;no
+33;male;27.1;1;yes;southwest;19040.876;1.0;overweight;up to 3 children;9.854343315690363;yes_not_obese
+27;male;26.03;0;no;northeast;3070.8087;1.0;overweight;no children;8.029696226087674;no
+45;female;25.175;2;no;northeast;9095.06825;3.0;overweight;up to 3 children;9.115487595047211;no
+57;female;31.825;0;no;northwest;11842.62375;4.0;obese;no children;9.379460484394988;no
+47;male;32.3;1;no;southwest;8062.764;3.0;obese;up to 3 children;8.995011704753995;no
+42;female;29.0;1;no;southwest;7050.642;2.0;overweight;up to 3 children;8.860873955490042;no
+64;female;39.7;0;no;southwest;14319.031;4.0;obese;no children;9.569344770627316;no
+38;female;19.475;2;no;northwest;6933.24225;2.0;normal;up to 3 children;8.844082839915778;no
+61;male;36.1;3;no;southwest;27941.28758;4.0;obese;up to 3 children;10.237860715500025;no
+53;female;26.7;2;no;southwest;11150.78;3.0;overweight;up to 3 children;9.319264729598467;no
+44;female;36.48;0;no;northeast;12797.20962;3.0;obese;no children;9.456982427705094;no
+19;female;28.88;0;yes;northwest;17748.5062;0.0;overweight;no children;9.784056633615622;yes_not_obese
+41;male;34.2;2;no;northwest;7261.741;2.0;obese;up to 3 children;8.890374886232234;no
+51;male;33.33;3;no;southeast;10560.4917;3.0;obese;up to 3 children;9.264875118676253;no
+40;male;32.3;2;no;northwest;6986.697;2.0;obese;up to 3 children;8.851763191360497;no
+45;male;39.805;0;no;northeast;7448.40395;3.0;obese;no children;8.915755053522702;no
+35;male;34.32;3;no;southeast;5934.3798;2.0;obese;up to 3 children;8.688517802847086;no
+53;male;28.88;0;no;northwest;9869.8102;3.0;overweight;no children;9.19723590225276;no
+30;male;24.4;3;yes;southwest;18259.216;1.0;normal;up to 3 children;9.812425217849334;yes_not_obese
+18;male;41.14;0;no;southeast;1146.7966;0.0;obese;no children;7.0447277692332815;no
+51;male;35.97;1;no;southeast;9386.1613;3.0;obese;up to 3 children;9.1469916813761;no
+50;female;27.6;1;yes;southwest;24520.264;3.0;overweight;up to 3 children;10.107255156713231;yes_not_obese
+31;female;29.26;1;no;southeast;4350.5144;1.0;overweight;up to 3 children;8.378049369964973;no
+35;female;27.7;3;no;southwest;6414.178;2.0;overweight;up to 3 children;8.766266131660979;no
+60;male;36.955;0;no;northeast;12741.16745;4.0;obese;no children;9.452593561505488;no
+21;male;36.86;0;no;northwest;1917.3184;0.0;obese;no children;7.558682822107171;no
+29;male;22.515;3;no;northeast;5209.57885;1.0;normal;up to 3 children;8.558254296547272;no
+62;female;29.92;0;no;southeast;13457.9608;4.0;overweight;no children;9.50732609097838;no
+39;female;41.8;0;no;southeast;5662.225;2.0;obese;no children;8.641572203490552;no
+19;male;27.6;0;no;southwest;1252.407;0.0;overweight;no children;7.132822578705235;no
+22;female;23.18;0;no;northeast;2731.9122;0.0;normal;no children;7.912757082546145;no
+53;male;20.9;0;yes;southeast;21195.818;3.0;normal;no children;9.96155917705003;yes_not_obese
+39;female;31.92;2;no;northwest;7209.4918;2.0;obese;up to 3 children;8.883153742357887;no
+27;male;28.5;0;yes;northwest;18310.742;1.0;overweight;no children;9.815243161151129;yes_not_obese
+30;male;44.22;2;no;southeast;4266.1658;1.0;obese;up to 3 children;8.35847076372378;no
+30;female;22.895;1;no;northeast;4719.52405;1.0;normal;up to 3 children;8.459463236630816;no
+58;female;33.1;0;no;southwest;11848.141;4.0;obese;no children;9.379926256619562;no
+33;male;24.795;0;yes;northeast;17904.52705;1.0;normal;no children;9.792808867674283;yes_not_obese
+42;female;26.18;1;no;southeast;7046.7222;2.0;overweight;up to 3 children;8.860317851519767;no
+64;female;35.97;0;no;southeast;14313.8463;4.0;obese;no children;9.568982620501616;no
+21;male;22.3;1;no;southwest;2103.08;0.0;normal;up to 3 children;7.651158215873124;no
+18;female;42.24;0;yes;southeast;38792.6856;0.0;obese;no children;10.565986992376173;yes_obese
+23;male;26.51;0;no;southeast;1815.8759;0.0;overweight;no children;7.504323219821754;no
+45;female;35.815;0;no;northwest;7731.85785;3.0;obese;no children;8.95310445552394;no
+40;female;41.42;1;no;northwest;28476.73499;2.0;obese;up to 3 children;10.256842716748936;no
+19;female;36.575;0;no;northwest;2136.88225;0.0;obese;no children;7.667103153192724;no
+18;male;30.14;0;no;southeast;1131.5066;0.0;obese;no children;7.031305298021671;no
+25;male;25.84;1;no;northeast;3309.7926;1.0;overweight;up to 3 children;8.104640807797704;no
+46;female;30.8;3;no;southwest;9414.92;3.0;obese;up to 3 children;9.150050943976023;no
+33;female;42.94;3;no;northwest;6360.9936;1.0;obese;up to 3 children;8.757939870547187;no
+54;male;21.01;2;no;southeast;11013.7119;4.0;normal;up to 3 children;9.306896311862733;no
+28;male;22.515;2;no;northeast;4428.88785;1.0;normal;up to 3 children;8.395903781859541;no
+36;male;34.43;2;no;southeast;5584.3057;2.0;obese;up to 3 children;8.627715388645722;no
+20;female;31.46;0;no;southeast;1877.9294;0.0;obese;no children;7.537925065877328;no
+24;female;24.225;0;no;northwest;2842.76075;1.0;normal;no children;7.952530954047238;no
+23;male;37.1;3;no;southwest;3597.596;0.0;obese;up to 3 children;8.188021123603534;no
+47;female;26.125;1;yes;northeast;23401.30575;3.0;overweight;up to 3 children;10.06054710107101;yes_not_obese
+33;female;35.53;0;yes;northwest;55135.40209;1.0;obese;no children;10.917547294992884;yes_obese
+45;male;33.7;1;no;southwest;7445.918;3.0;obese;up to 3 children;8.915421241747795;no
+26;male;17.67;0;no;northwest;2680.9493;1.0;underweight;no children;7.893926227202988;no
+18;female;31.13;0;no;southeast;1621.8827;0.0;obese;no children;7.391342913934506;no
+44;female;29.81;2;no;southeast;8219.2039;3.0;overweight;up to 3 children;9.014228634211625;no
+60;male;24.32;0;no;northwest;12523.6048;4.0;normal;no children;9.435370526534808;no
+64;female;31.825;2;no;northeast;16069.08475;4.0;obese;up to 3 children;9.684652503158159;no
+56;male;31.79;2;yes;southeast;43813.8661;4.0;obese;up to 3 children;10.687705623889984;yes_obese
+36;male;28.025;1;yes;northeast;20773.62775;2.0;overweight;up to 3 children;9.941439564593802;yes_not_obese
+41;male;30.78;3;yes;northeast;39597.4072;2.0;obese;up to 3 children;10.586518920351532;yes_obese
+39;male;21.85;1;no;northwest;6117.4945;2.0;normal;up to 3 children;8.718907896256349;no
+63;male;33.1;0;no;southwest;13393.756;4.0;obese;no children;9.502543907191923;no
+36;female;25.84;0;no;northwest;5266.3656;2.0;overweight;no children;8.569095764156032;no
+28;female;23.845;2;no;northwest;4719.73655;1.0;normal;up to 3 children;8.459508261343881;no
+58;male;34.39;0;no;northwest;11743.9341;4.0;obese;no children;9.371092139462531;no
+36;male;33.82;1;no;northwest;5377.4578;2.0;obese;up to 3 children;8.589971013598309;no
+42;male;35.97;2;no;southeast;7160.3303;2.0;obese;up to 3 children;8.876311390175593;no
+36;male;31.5;0;no;southwest;4402.233;2.0;obese;no children;8.389867191171781;no
+56;female;28.31;0;no;northeast;11657.7189;4.0;overweight;no children;9.363723806117159;no
+35;female;23.465;2;no;northeast;6402.29135;2.0;normal;up to 3 children;8.764411228710166;no
+59;female;31.35;0;no;northwest;12622.1795;4.0;obese;no children;9.443210823244142;no
+21;male;31.1;0;no;southwest;1526.312;0.0;obese;no children;7.330609647040468;no
+59;male;24.7;0;no;northeast;12323.936;4.0;normal;no children;9.419298666583957;no
+23;female;32.78;2;yes;southeast;36021.0112;0.0;obese;up to 3 children;10.491857691628514;yes_obese
+57;female;29.81;0;yes;southeast;27533.9129;4.0;overweight;no children;10.223173720256224;yes_not_obese
+53;male;30.495;0;no;northeast;10072.05505;3.0;obese;no children;9.217520041356586;no
+60;female;32.45;0;yes;southeast;45008.9555;4.0;obese;no children;10.714616760063484;yes_obese
+51;female;34.2;1;no;southwest;9872.701;3.0;obese;up to 3 children;9.197528752538256;no
+23;male;50.38;1;no;southeast;2438.0552;0.0;obese;up to 3 children;7.798955951294335;no
+27;female;24.1;0;no;southwest;2974.126;1.0;normal;no children;7.997705493304883;no
+55;male;32.775;0;no;northwest;10601.63225;4.0;obese;no children;9.268763254094612;no
+37;female;30.78;0;yes;northeast;37270.1512;2.0;obese;no children;10.525948049347285;yes_obese
+61;male;32.3;2;no;northwest;14119.62;4.0;obese;up to 3 children;9.55532059850379;no
+46;female;35.53;0;yes;northeast;42111.6647;3.0;obese;no children;10.648080052552228;yes_obese
+53;female;23.75;2;no;northeast;11729.6795;3.0;normal;up to 3 children;9.369877618171085;no
+49;female;23.845;3;yes;northeast;24106.91255;3.0;normal;up to 3 children;10.090253906152347;yes_not_obese
+20;female;29.6;0;no;southwest;1875.344;0.0;overweight;no children;7.5365473882432275;no
+48;female;33.11;0;yes;southeast;40974.1649;3.0;obese;no children;10.62069702268439;yes_obese
+25;male;24.13;0;yes;northwest;15817.9857;1.0;normal;no children;9.668902907045574;yes_not_obese
+25;female;32.23;1;no;southeast;18218.16139;1.0;obese;up to 3 children;9.810174254086462;no
+57;male;28.1;0;no;southwest;10965.446;4.0;overweight;no children;9.302504334899389;no
+37;female;47.6;2;yes;southwest;46113.511;2.0;obese;up to 3 children;10.738861266305413;yes_obese
+38;female;28.0;3;no;southwest;7151.092;2.0;overweight;up to 3 children;8.875020351299158;no
+55;female;33.535;2;no;northwest;12269.68865;4.0;obese;up to 3 children;9.414887162484883;no
+36;female;19.855;0;no;northeast;5458.04645;2.0;normal;no children;8.604846211675456;no
+51;male;25.4;0;no;southwest;8782.469;3.0;overweight;no children;9.080512854387097;no
+40;male;29.9;2;no;southwest;6600.361;2.0;overweight;up to 3 children;8.79487962348839;no
+18;male;37.29;0;no;southeast;1141.4451;0.0;obese;no children;7.040050370200915;no
+57;male;43.7;1;no;southwest;11576.13;4.0;obese;up to 3 children;9.356700498379569;no
+61;male;23.655;0;no;northeast;13129.60345;4.0;normal;no children;9.482624765012883;no
+25;female;24.3;3;no;southwest;4391.652;1.0;normal;up to 3 children;8.387460745077433;no
+50;male;36.2;0;no;southwest;8457.818;3.0;obese;no children;9.042846499711533;no
+26;female;29.48;1;no;southeast;3392.3652;1.0;overweight;up to 3 children;8.129282656210663;no
+42;male;24.86;0;no;southeast;5966.8874;2.0;normal;no children;8.693980696889868;no
+43;male;30.1;1;no;southwest;6849.026;2.0;obese;up to 3 children;8.831861731365324;no
+44;male;21.85;3;no;northeast;8891.1395;3.0;normal;up to 3 children;9.092810498021672;no
+23;female;28.12;0;no;northwest;2690.1138;0.0;overweight;no children;7.897338776533775;no
+49;female;27.1;1;no;southwest;26140.3603;3.0;overweight;up to 3 children;10.171235770556825;no
+33;male;33.44;5;no;southeast;6653.7886;1.0;obese;more than 3 children;8.802941685710042;no
+41;male;28.8;1;no;southwest;6282.235;2.0;overweight;up to 3 children;8.745481087867553;no
+37;female;29.5;2;no;southwest;6311.952;2.0;overweight;up to 3 children;8.750200257934058;no
+22;male;34.8;3;no;southwest;3443.064;0.0;obese;up to 3 children;8.144117051606074;no
+23;male;27.36;1;no;northwest;2789.0574;0.0;overweight;up to 3 children;7.933458968269059;no
+21;female;22.135;0;no;northeast;2585.85065;0.0;normal;no children;7.857809804377088;no
+51;female;37.05;3;yes;northeast;46255.1125;3.0;obese;up to 3 children;10.741927277371957;yes_obese
+25;male;26.695;4;no;northwest;4877.98105;1.0;overweight;more than 3 children;8.492486693979473;no
+32;male;28.93;1;yes;southeast;19719.6947;1.0;overweight;up to 3 children;9.88937314629236;yes_not_obese
+57;male;28.975;0;yes;northeast;27218.43725;4.0;overweight;no children;10.211649862727798;yes_not_obese
+36;female;30.02;0;no;northwest;5272.1758;2.0;obese;no children;8.570198421605134;no
+22;male;39.5;0;no;southwest;1682.597;0.0;obese;no children;7.428093712160173;no
+57;male;33.63;1;no;northwest;11945.1327;4.0;obese;up to 3 children;9.388079168948936;no
+64;female;26.885;0;yes;northwest;29330.98315;4.0;overweight;no children;10.2863996816961;yes_not_obese
+36;female;29.04;4;no;southeast;7243.8136;2.0;overweight;more than 3 children;8.887903087032262;no
+54;male;24.035;0;no;northeast;10422.91665;4.0;normal;no children;9.251762184969365;no
+47;male;38.94;2;yes;southeast;44202.6536;3.0;obese;up to 3 children;10.696540102462784;yes_obese
+62;male;32.11;0;no;northeast;13555.0049;4.0;obese;no children;9.514511123422926;no
+61;female;44.0;0;no;southwest;13063.883;4.0;obese;no children;9.477606678700827;no
+43;female;20.045;2;yes;northeast;19798.05455;2.0;normal;up to 3 children;9.893338956804778;yes_not_obese
+19;male;25.555;1;no;northwest;2221.56445;0.0;overweight;up to 3 children;7.705966933884002;no
+18;female;40.26;0;no;southeast;1634.5734;0.0;obese;no children;7.399137131855286;no
+19;female;22.515;0;no;northwest;2117.33885;0.0;normal;no children;7.657915319734057;no
+49;male;22.515;0;no;northeast;8688.85885;3.0;normal;no children;9.069796892030082;no
+60;male;40.92;0;yes;southeast;48673.5588;4.0;obese;no children;10.792891221173397;yes_obese
+26;male;27.265;3;no;northeast;4661.28635;1.0;overweight;up to 3 children;8.447046729799979;no
+49;male;36.85;0;no;southeast;8125.7845;3.0;obese;no children;9.002797556383069;no
+60;female;35.1;0;no;southwest;12644.589;4.0;obese;no children;9.444984655610234;no
+26;female;29.355;2;no;northeast;4564.19145;1.0;overweight;up to 3 children;8.42599665795494;no
+27;male;32.585;3;no;northeast;4846.92015;1.0;obese;up to 3 children;8.486098761601982;no
+44;female;32.34;1;no;southeast;7633.7206;3.0;obese;up to 3 children;8.940330633211769;no
+63;male;39.8;3;no;southwest;15170.069;4.0;obese;up to 3 children;9.627079620783123;no
+32;female;24.6;0;yes;southwest;17496.306;1.0;normal;no children;9.769745051915594;yes_not_obese
+22;male;28.31;1;no;northwest;2639.0429;0.0;overweight;up to 3 children;7.87817159252883;no
+18;male;31.73;0;yes;northeast;33732.6867;0.0;obese;no children;10.426222578011334;yes_obese
+59;female;26.695;3;no;northwest;14382.70905;4.0;overweight;up to 3 children;9.573782003657021;no
+44;female;27.5;1;no;southwest;7626.993;3.0;overweight;up to 3 children;8.939448944371764;no
+33;male;24.605;2;no;northwest;5257.50795;1.0;normal;up to 3 children;8.567412419701247;no
+24;female;33.99;0;no;southeast;2473.3341;1.0;obese;no children;7.813322357466315;no
+43;female;26.885;0;yes;northwest;21774.32215;2.0;overweight;no children;9.988486671500228;yes_not_obese
+45;male;22.895;0;yes;northeast;35069.37452;3.0;normal;no children;10.465083507788405;yes_not_obese
+61;female;28.2;0;no;southwest;13041.921;4.0;overweight;no children;9.475924140581634;no
+35;female;34.21;1;no;southeast;5245.2269;2.0;obese;up to 3 children;8.565073780142555;no
+62;female;25.0;0;no;southwest;13451.122;4.0;overweight;no children;9.506817801625074;no
+62;female;33.2;0;no;southwest;13462.52;4.0;obese;no children;9.507664807071711;no
+38;male;31.0;1;no;southwest;5488.262;2.0;obese;up to 3 children;8.61036690879096;no
+34;male;35.815;0;no;northwest;4320.41085;2.0;obese;no children;8.371105780882708;no
+43;male;23.2;0;no;southwest;6250.435;2.0;normal;no children;8.74040634030848;no
+50;male;32.11;2;no;northeast;25333.33284;3.0;obese;up to 3 children;10.139876311126674;no
+19;female;23.4;2;no;southwest;2913.569;0.0;normal;up to 3 children;7.9771340691583665;no
+57;female;20.1;1;no;southwest;12032.326;4.0;normal;up to 3 children;9.395352140237467;no
+62;female;39.16;0;no;southeast;13470.8044;4.0;obese;no children;9.508279985512978;no
+41;male;34.21;1;no;southeast;6289.7549;2.0;obese;up to 3 children;8.746677382321595;no
+26;male;46.53;1;no;southeast;2927.0647;1.0;obese;up to 3 children;7.981755390991486;no
+39;female;32.5;1;no;southwest;6238.298;2.0;obese;up to 3 children;8.738462667748422;no
+46;male;25.8;5;no;southwest;10096.97;3.0;overweight;more than 3 children;9.219990657820349;no
+45;female;35.3;0;no;southwest;7348.142;3.0;obese;no children;8.902202771134682;no
+32;male;37.18;2;no;southeast;4673.3922;1.0;obese;up to 3 children;8.449640468132152;no
+59;female;27.5;0;no;southwest;12233.828;4.0;overweight;no children;9.411960180524343;no
+44;male;29.735;2;no;northeast;32108.66282;3.0;overweight;up to 3 children;10.37688114249174;no
+39;female;24.225;5;no;northwest;8965.79575;2.0;normal;more than 3 children;9.101172143951779;no
+18;male;26.18;2;no;southeast;2304.0022;0.0;overweight;up to 3 children;7.742402976676437;no
+53;male;29.48;0;no;southeast;9487.6442;3.0;overweight;no children;9.157745620534364;no
+18;male;23.21;0;no;southeast;1121.8739;0.0;normal;no children;7.02275569117477;no
+50;female;46.09;1;no;southeast;9549.5651;3.0;obese;up to 3 children;9.164250893170816;no
+18;female;40.185;0;no;northeast;2217.46915;0.0;obese;no children;7.704121802023827;no
+19;male;22.61;0;no;northwest;1628.4709;0.0;normal;no children;7.395396755351842;no
+62;male;39.93;0;no;southeast;12982.8747;4.0;obese;no children;9.471386437231496;no
+56;female;35.8;1;no;southwest;11674.13;4.0;obese;up to 3 children;9.365130561559194;no
+42;male;35.8;2;no;southwest;7160.094;2.0;obese;up to 3 children;8.876278388360134;no
+37;male;34.2;1;yes;northeast;39047.285;2.0;obese;up to 3 children;10.57252862660237;yes_obese
+42;male;31.255;0;no;northwest;6358.77645;2.0;obese;no children;8.75759125575089;no
+25;male;29.7;3;yes;southwest;19933.458;1.0;overweight;up to 3 children;9.900154905431657;yes_not_obese
+57;male;18.335;0;no;northeast;11534.87265;4.0;underweight;no children;9.353130130234815;no
+51;male;42.9;2;yes;southeast;47462.894;3.0;obese;up to 3 children;10.767703505796094;yes_obese
+30;female;28.405;1;no;northwest;4527.18295;1.0;overweight;up to 3 children;8.417855159696465;no
+44;male;30.2;2;yes;southwest;38998.546;3.0;obese;up to 3 children;10.571279642365509;yes_obese
+34;male;27.835;1;yes;northwest;20009.63365;2.0;overweight;up to 3 children;9.903969119064353;yes_not_obese
+31;male;39.49;1;no;southeast;3875.7341;1.0;obese;up to 3 children;8.262490369006269;no
+54;male;30.8;1;yes;southeast;41999.52;4.0;obese;up to 3 children;10.645413468628771;yes_obese
+24;male;26.79;1;no;northwest;12609.88702;1.0;overweight;up to 3 children;9.44223646936292;no
+43;male;34.96;1;yes;northeast;41034.2214;2.0;obese;up to 3 children;10.622161665837258;yes_obese
+48;male;36.67;1;no;northwest;28468.91901;3.0;obese;up to 3 children;10.256568210109709;no
+19;female;39.615;1;no;northwest;2730.10785;0.0;obese;up to 3 children;7.912096392893189;no
+29;female;25.9;0;no;southwest;3353.284;1.0;overweight;no children;8.11769544314778;no
+63;female;35.2;1;no;southeast;14474.675;4.0;obese;up to 3 children;9.580155849684816;no
+46;male;24.795;3;no;northeast;9500.57305;3.0;normal;up to 3 children;9.159107396822023;no
+52;male;36.765;2;no;northwest;26467.09737;3.0;obese;up to 3 children;10.183657631860399;no
+35;male;27.1;1;no;southwest;4746.344;2.0;overweight;up to 3 children;8.46512991645919;no
+51;male;24.795;2;yes;northwest;23967.38305;3.0;normal;up to 3 children;10.08444914541489;yes_not_obese
+44;male;25.365;1;no;northwest;7518.02535;3.0;overweight;up to 3 children;8.92505879602586;no
+21;male;25.745;2;no;northeast;3279.86855;0.0;overweight;up to 3 children;8.095558624355604;no
+39;female;34.32;5;no;southeast;8596.8278;2.0;obese;more than 3 children;9.059148553730727;no
+50;female;28.16;3;no;southeast;10702.6424;3.0;overweight;up to 3 children;9.278245943233086;no
+34;female;23.56;0;no;northeast;4992.3764;2.0;normal;no children;8.515667307847805;no
+22;female;20.235;0;no;northwest;2527.81865;0.0;normal;no children;7.835112016142926;no
+19;female;40.5;0;no;southwest;1759.338;0.0;obese;no children;7.472692880911536;no
+26;male;35.42;0;no;southeast;2322.6218;1.0;obese;no children;7.750451912800503;no
+29;male;22.895;0;yes;northeast;16138.76205;1.0;normal;no children;9.688979238138792;yes_not_obese
+48;male;40.15;0;no;southeast;7804.1605;3.0;obese;no children;8.962412267907734;no
+26;male;29.15;1;no;southeast;2902.9065;1.0;overweight;up to 3 children;7.973467755445312;no
+45;female;39.995;3;no;northeast;9704.66805;3.0;obese;up to 3 children;9.180362290999593;no
+36;female;29.92;0;no;southeast;4889.0368;2.0;overweight;no children;8.494750589651973;no
+54;male;25.46;1;no;northeast;25517.11363;4.0;overweight;up to 3 children;10.147104628789455;no
+34;male;21.375;0;no;northeast;4500.33925;2.0;normal;no children;8.4119080618057;no
+31;male;25.9;3;yes;southwest;19199.944;1.0;overweight;up to 3 children;9.862662641344953;yes_not_obese
+27;female;30.59;1;no;northeast;16796.41194;1.0;obese;up to 3 children;9.728920567580962;no
+20;male;30.115;5;no;northeast;4915.05985;0.0;obese;more than 3 children;8.500059209516284;no
+44;female;25.8;1;no;southwest;7624.63;3.0;overweight;up to 3 children;8.939139075708093;no
+43;male;30.115;3;no;northwest;8410.04685;2.0;obese;up to 3 children;9.037182323700586;no
+45;female;27.645;1;no;northwest;28340.18885;3.0;overweight;up to 3 children;10.252036176948652;no
+34;male;34.675;0;no;northeast;4518.82625;2.0;obese;no children;8.416007559900255;no
+24;female;20.52;0;yes;northeast;14571.8908;1.0;normal;no children;9.586849664276604;yes_not_obese
+26;female;19.8;1;no;southwest;3378.91;1.0;normal;up to 3 children;8.125308451260427;no
+38;female;27.835;2;no;northeast;7144.86265;2.0;overweight;up to 3 children;8.874148866946168;no
+50;female;31.6;2;no;southwest;10118.424;3.0;obese;up to 3 children;9.222113199488794;no
+38;male;28.27;1;no;southeast;5484.4673;2.0;overweight;up to 3 children;8.609675248576345;no
+27;female;20.045;3;yes;northwest;16420.49455;1.0;normal;up to 3 children;9.706285501310472;yes_not_obese
+39;female;23.275;3;no;northeast;7986.47525;2.0;normal;up to 3 children;8.985504796245682;no
+39;female;34.1;3;no;southwest;7418.522;2.0;obese;up to 3 children;8.911735124945526;no
+63;female;36.85;0;no;southeast;13887.9685;4.0;obese;no children;9.538778168752398;no
+33;female;36.29;3;no;northeast;6551.7501;1.0;obese;up to 3 children;8.787487483779877;no
+36;female;26.885;0;no;northwest;5267.81815;2.0;overweight;no children;8.569371542525515;no
+30;male;22.99;2;yes;northwest;17361.7661;1.0;normal;up to 3 children;9.76202571691077;yes_not_obese
+24;male;32.7;0;yes;southwest;34472.841;1.0;obese;no children;10.447927075609824;yes_obese
+24;male;25.8;0;no;southwest;1972.95;1.0;overweight;no children;7.587285163582897;no
+48;male;29.6;0;no;southwest;21232.18226;3.0;overweight;no children;9.963273340747653;no
+47;male;19.19;1;no;northeast;8627.5411;3.0;normal;up to 3 children;9.06271481879738;no
+29;male;31.73;2;no;northwest;4433.3877;1.0;obese;up to 3 children;8.396919288624439;no
+28;male;29.26;2;no;northeast;4438.2634;1.0;overweight;up to 3 children;8.398018452790371;no
+47;male;28.215;3;yes;northwest;24915.22085;3.0;overweight;up to 3 children;10.123234174814288;yes_not_obese
+25;male;24.985;2;no;northeast;23241.47453;1.0;normal;up to 3 children;10.053693656887708;no
+51;male;27.74;1;no;northeast;9957.7216;3.0;overweight;up to 3 children;9.206103569390143;no
+48;female;22.8;0;no;southwest;8269.044;3.0;normal;no children;9.020274182786737;no
+43;male;20.13;2;yes;southeast;18767.7377;2.0;normal;up to 3 children;9.839894594879139;yes_not_obese
+61;female;33.33;4;no;southeast;36580.28216;4.0;obese;more than 3 children;10.507264635419755;no
+48;male;32.3;1;no;northwest;8765.249;3.0;obese;up to 3 children;9.078550205394492;no
+38;female;27.6;0;no;southwest;5383.536;2.0;overweight;no children;8.591100686332883;no
+59;male;25.46;0;no;northwest;12124.9924;4.0;overweight;no children;9.403024089001363;no
+19;female;24.605;1;no;northwest;2709.24395;0.0;normal;up to 3 children;7.904424889710272;no
+26;female;34.2;2;no;southwest;3987.926;1.0;obese;up to 3 children;8.291026575242569;no
+54;female;35.815;3;no;northwest;12495.29085;4.0;obese;up to 3 children;9.433107120309066;no
+21;female;32.68;2;no;northwest;26018.95052;0.0;obese;up to 3 children;10.166580417663528;no
+51;male;37.0;0;no;southwest;8798.593;3.0;obese;no children;9.082347101319474;no
+22;female;31.02;3;yes;southeast;35595.5898;0.0;obese;up to 3 children;10.479977027143638;yes_obese
+47;male;36.08;1;yes;southeast;42211.1382;3.0;obese;up to 3 children;10.65043940358712;yes_obese
+18;male;23.32;1;no;southeast;1711.0268;0.0;normal;up to 3 children;7.444848937124288;no
+47;female;45.32;1;no;southeast;8569.8618;3.0;obese;up to 3 children;9.056006885440796;no
+21;female;34.6;0;no;southwest;2020.177;0.0;obese;no children;7.610940410318889;no
+19;male;26.03;1;yes;northwest;16450.8947;0.0;overweight;up to 3 children;9.708135143772237;yes_not_obese
+23;male;18.715;0;no;northwest;21595.38229;0.0;normal;no children;9.98023478794707;no
+54;male;31.6;0;no;southwest;9850.432;4.0;obese;no children;9.195270591072427;no
+37;female;17.29;2;no;northeast;6877.9801;2.0;underweight;up to 3 children;8.836080297705095;no
+46;female;23.655;1;yes;northwest;21677.28345;3.0;normal;up to 3 children;9.984020145580844;yes_not_obese
+55;female;35.2;0;yes;southeast;44423.803;4.0;obese;no children;10.701530708371722;yes_obese
+30;female;27.93;0;no;northeast;4137.5227;1.0;overweight;no children;8.327852506075102;no
+18;male;21.565;0;yes;northeast;13747.87235;0.0;normal;no children;9.528639352939711;yes_not_obese
+61;male;38.38;0;no;northwest;12950.0712;4.0;obese;no children;9.468856565182067;no
+54;female;23.0;3;no;southwest;12094.478;4.0;normal;up to 3 children;9.400504263782892;no
+22;male;37.07;2;yes;southeast;37484.4493;0.0;obese;up to 3 children;10.531681440619428;yes_obese
+45;female;30.495;1;yes;northwest;39725.51805;3.0;obese;up to 3 children;10.589749032226115;yes_obese
+22;male;28.88;0;no;northeast;2250.8352;0.0;overweight;no children;7.71905662632079;no
+19;male;27.265;2;no;northwest;22493.65964;0.0;overweight;up to 3 children;10.020988754703406;no
+35;female;28.025;0;yes;northwest;20234.85475;2.0;overweight;no children;9.915161879127544;yes_not_obese
+18;male;23.085;0;no;northeast;1704.70015;0.0;normal;no children;7.441144509148898;no
+20;male;30.685;0;yes;northeast;33475.81715;0.0;obese;no children;10.41857858101573;yes_obese
+28;female;25.8;0;no;southwest;3161.454;1.0;overweight;no children;8.05878732733746;no
+55;male;35.245;1;no;northeast;11394.06555;4.0;obese;up to 3 children;9.340847933051702;no
+43;female;24.7;2;yes;northwest;21880.82;2.0;normal;up to 3 children;9.993365732981747;yes_not_obese
+43;female;25.08;0;no;northeast;7325.0482;2.0;overweight;no children;8.899055014068397;no
+22;male;52.58;1;yes;southeast;44501.3982;0.0;obese;up to 3 children;10.703275887885447;yes_obese
+25;female;22.515;1;no;northwest;3594.17085;1.0;normal;up to 3 children;8.187068603776234;no
+49;male;30.9;0;yes;southwest;39727.614;3.0;obese;no children;10.589801791631476;yes_obese
+44;female;36.955;1;no;northwest;8023.13545;3.0;obese;up to 3 children;8.990084578323348;no
+64;male;26.41;0;no;northeast;14394.5579;4.0;overweight;no children;9.574605490521856;no
+49;male;29.83;1;no;northeast;9288.0267;3.0;overweight;up to 3 children;9.136481398050599;no
+47;male;29.8;3;yes;southwest;25309.489;3.0;overweight;up to 3 children;10.138934663686996;yes_not_obese
+27;female;21.47;0;no;northwest;3353.4703;1.0;normal;no children;8.117750999081906;no
+55;male;27.645;0;no;northwest;10594.50155;4.0;overweight;no children;9.268090423819404;no
+48;female;28.9;0;no;southwest;8277.523;3.0;overweight;no children;9.021299048034273;no
+45;female;31.79;0;no;southeast;17929.30337;3.0;obese;no children;9.794191713083654;no
+24;female;39.49;0;no;southeast;2480.9791;1.0;obese;no children;7.816408559633747;no
+32;male;33.82;1;no;northwest;4462.7218;1.0;obese;up to 3 children;8.40351412793397;no
+24;male;32.01;0;no;southeast;1981.5819;1.0;obese;no children;7.591650744100329;no
+57;male;27.94;1;no;southeast;11554.2236;4.0;overweight;up to 3 children;9.35480632875911;no
+59;male;41.14;1;yes;southeast;48970.2476;4.0;obese;up to 3 children;10.798968200840411;yes_obese
+36;male;28.595;3;no;northwest;6548.19505;2.0;overweight;up to 3 children;8.786944725768821;no
+29;female;25.6;4;no;southwest;5708.867;1.0;overweight;more than 3 children;8.649775859143583;no
+42;female;25.3;1;no;southwest;7045.499;2.0;overweight;up to 3 children;8.86014425220058;no
+48;male;37.29;2;no;southeast;8978.1851;3.0;obese;up to 3 children;9.102553036193283;no
+39;male;42.655;0;no;northeast;5757.41345;2.0;obese;no children;8.658243599015632;no
+63;male;21.66;1;no;northwest;14349.8544;4.0;normal;up to 3 children;9.571495074794829;no
+54;female;31.9;1;no;southeast;10928.849;4.0;obese;up to 3 children;9.299161269129582;no
+37;male;37.07;1;yes;southeast;39871.7043;2.0;obese;up to 3 children;10.593422185887682;yes_obese
+63;male;31.445;0;no;northeast;13974.45555;4.0;obese;no children;9.544986338409286;no
+21;male;31.255;0;no;northwest;1909.52745;0.0;obese;no children;7.554611082053211;no
+54;female;28.88;2;no;northeast;12096.6512;4.0;overweight;up to 3 children;9.400683932949047;no
+60;female;18.335;0;no;northeast;13204.28565;4.0;underweight;no children;9.48829672633496;no
+32;female;29.59;1;no;southeast;4562.8421;1.0;overweight;up to 3 children;8.425700975901744;no
+47;female;32.0;1;no;southwest;8551.347;3.0;obese;up to 3 children;9.053844093381725;no
+21;male;26.03;0;no;northeast;2102.2647;0.0;overweight;no children;7.650770471196587;no
+28;male;31.68;0;yes;southeast;34672.1472;1.0;obese;no children;10.45369196926782;yes_obese
+63;male;33.66;3;no;southeast;15161.5344;4.0;obese;up to 3 children;9.626516867794916;no
+18;male;21.78;2;no;southeast;11884.04858;0.0;normal;up to 3 children;9.382952324423352;no
+32;male;27.835;1;no;northwest;4454.40265;1.0;overweight;up to 3 children;8.401648245617254;no
+38;male;19.95;1;no;northwest;5855.9025;2.0;normal;up to 3 children;8.675205405912378;no
+32;male;31.5;1;no;southwest;4076.497;1.0;obese;up to 3 children;8.312993320177268;no
+62;female;30.495;2;no;northwest;15019.76005;4.0;obese;up to 3 children;9.61712194982434;no
+39;female;18.3;5;yes;southwest;19023.26;2.0;underweight;more than 3 children;9.853417719940197;yes_not_obese
+55;male;28.975;0;no;northeast;10796.35025;4.0;overweight;no children;9.286963416182969;no
+57;male;31.54;0;no;northwest;11353.2276;4.0;obese;no children;9.337257352528104;no
+52;male;47.74;1;no;southeast;9748.9106;3.0;obese;up to 3 children;9.184910824415926;no
+56;male;22.1;0;no;southwest;10577.087;4.0;normal;no children;9.26644533668895;no
+47;male;36.19;0;yes;southeast;41676.0811;3.0;obese;no children;10.637682648494286;yes_obese
+55;female;29.83;0;no;northeast;11286.5387;4.0;overweight;no children;9.331366029092958;no
+23;male;32.7;3;no;southwest;3591.48;0.0;obese;up to 3 children;8.186319652795467;no
+22;female;30.4;0;yes;northwest;33907.548;0.0;obese;no children;10.431392923451883;yes_obese
+50;female;33.7;4;no;southwest;11299.343;3.0;obese;more than 3 children;9.332499861417224;no
+18;female;31.35;4;no;northeast;4561.1885;0.0;obese;more than 3 children;8.425338504513691;no
+51;female;34.96;2;yes;northeast;44641.1974;3.0;obese;up to 3 children;10.706412420172152;yes_obese
+22;male;33.77;0;no;southeast;1674.6323;0.0;obese;no children;7.423348897772541;no
+52;female;30.875;0;no;northeast;23045.56616;3.0;obese;no children;10.04522867243799;no
+25;female;33.99;1;no;southeast;3227.1211;1.0;obese;up to 3 children;8.079345718462804;no
+33;female;19.095;2;yes;northeast;16776.30405;1.0;normal;up to 3 children;9.727722696523381;yes_not_obese
+53;male;28.6;3;no;southwest;11253.421;3.0;overweight;up to 3 children;9.3284274502958;no
+29;male;38.94;1;no;southeast;3471.4096;1.0;obese;up to 3 children;8.152316015237817;no
+58;male;36.08;0;no;southeast;11363.2832;4.0;obese;no children;9.338142664603124;no
+37;male;29.8;0;no;southwest;20420.60465;2.0;overweight;no children;9.924299701956077;no
+54;female;31.24;0;no;southeast;10338.9316;4.0;obese;no children;9.24367181583795;no
+49;female;29.925;0;no;northwest;8988.15875;3.0;overweight;no children;9.103663295588047;no
+50;female;26.22;2;no;northwest;10493.9458;3.0;overweight;up to 3 children;9.25855377937721;no
+26;male;30.0;1;no;southwest;2904.088;1.0;obese;up to 3 children;7.9738746785158625;no
+45;male;20.35;3;no;southeast;8605.3615;3.0;normal;up to 3 children;9.06014071822226;no
+54;female;32.3;1;no;northeast;11512.405;4.0;obese;up to 3 children;9.351180428629407;no
+38;male;38.39;3;yes;southeast;41949.2441;2.0;obese;up to 3 children;10.644215692662685;yes_obese
+48;female;25.85;3;yes;southeast;24180.9335;3.0;overweight;up to 3 children;10.093319729709767;yes_not_obese
+28;female;26.315;3;no;northwest;5312.16985;1.0;overweight;up to 3 children;8.577755665419184;no
+23;male;24.51;0;no;northeast;2396.0959;0.0;normal;no children;7.7815959834760955;no
+55;male;32.67;1;no;southeast;10807.4863;4.0;obese;up to 3 children;9.28799434890277;no
+41;male;29.64;5;no;northeast;9222.4026;2.0;overweight;more than 3 children;9.129390868287384;no
+25;male;33.33;2;yes;southeast;36124.5737;1.0;obese;up to 3 children;10.494728624653064;yes_obese
+33;male;35.75;1;yes;southeast;38282.7495;1.0;obese;up to 3 children;10.552754669006335;yes_obese
+30;female;19.95;3;no;northwest;5693.4305;1.0;normal;up to 3 children;8.647068245273546;no
+23;female;31.4;0;yes;southwest;34166.273;0.0;obese;no children;10.438994266874893;yes_obese
+46;male;38.17;2;no;southeast;8347.1643;3.0;obese;up to 3 children;9.029677155375715;no
+53;female;36.86;3;yes;northwest;46661.4424;3.0;obese;up to 3 children;10.750673458085194;yes_obese
+27;female;32.395;1;no;northeast;18903.49141;1.0;obese;up to 3 children;9.847101914674951;no
+23;female;42.75;1;yes;northeast;40904.1995;0.0;obese;up to 3 children;10.618988014021557;yes_obese
+63;female;25.08;0;no;northwest;14254.6082;4.0;overweight;no children;9.5648355158761;no
+55;male;29.9;0;no;southwest;10214.636;4.0;overweight;no children;9.231576872745064;no
+35;female;35.86;2;no;southeast;5836.5204;2.0;obese;up to 3 children;8.671890076332048;no
+34;male;32.8;1;no;southwest;14358.36437;2.0;obese;up to 3 children;9.572087934304326;no
+19;female;18.6;0;no;southwest;1728.897;0.0;normal;no children;7.455238911901867;no
+39;female;23.87;5;no;southeast;8582.3023;2.0;normal;more than 3 children;9.057457489820392;no
+27;male;45.9;2;no;southwest;3693.428;1.0;obese;up to 3 children;8.21431030307363;no
+57;male;40.28;0;no;northeast;20709.02034;4.0;obese;no children;9.938324649552763;no
+52;female;18.335;0;no;northwest;9991.03765;3.0;underweight;no children;9.209443735117471;no
+28;male;33.82;0;no;northwest;19673.33573;1.0;obese;no children;9.887019481651924;no
+50;female;28.12;3;no;northwest;11085.5868;3.0;overweight;up to 3 children;9.313401057049871;no
+44;female;25.0;1;no;southwest;7623.518;3.0;overweight;up to 3 children;8.938993221929394;no
+26;female;22.23;0;no;northwest;3176.2877;1.0;normal;no children;8.063468403906713;no
+33;male;30.25;0;no;southeast;3704.3545;1.0;obese;no children;8.217264298529827;no
+19;female;32.49;0;yes;northwest;36898.73308;0.0;obese;no children;10.51593249556386;yes_obese
+50;male;37.07;1;no;southeast;9048.0273;3.0;obese;up to 3 children;9.110302035032785;no
+41;female;32.6;3;no;southwest;7954.517;2.0;obese;up to 3 children;8.98149522239808;no
+52;female;24.86;0;no;southeast;27117.99378;3.0;normal;no children;10.20795276365428;no
+39;male;32.34;2;no;southeast;6338.0756;2.0;obese;up to 3 children;8.754330468232741;no
+50;male;32.3;2;no;southwest;9630.397;3.0;obese;up to 3 children;9.172679729279917;no
+52;male;32.775;3;no;northwest;11289.10925;3.0;obese;up to 3 children;9.331593756776948;no
+60;male;32.8;0;yes;southwest;52590.82939;4.0;obese;no children;10.870297037328017;yes_obese
+20;female;31.92;0;no;northwest;2261.5688;0.0;obese;no children;7.7238140107412425;no
+55;male;21.5;1;no;southwest;10791.96;4.0;normal;up to 3 children;9.286556691431501;no
+42;male;34.1;0;no;southwest;5979.731;2.0;obese;no children;8.696130862655307;no
+18;female;30.305;0;no;northeast;2203.73595;0.0;obese;no children;7.697909358195443;no
+58;female;36.48;0;no;northwest;12235.8392;4.0;obese;no children;9.412124563634917;no
+43;female;32.56;3;yes;southeast;40941.2854;2.0;obese;up to 3 children;10.619894255888985;yes_obese
+35;female;35.815;1;no;northwest;5630.45785;2.0;obese;up to 3 children;8.635946041095384;no
+48;female;27.93;4;no;northwest;11015.1747;3.0;overweight;more than 3 children;9.30702911930132;no
+36;female;22.135;3;no;northeast;7228.21565;2.0;normal;up to 3 children;8.885747486629533;no
+19;male;44.88;0;yes;southeast;39722.7462;0.0;obese;no children;10.58967925474193;yes_obese
+23;female;23.18;2;no;northwest;14426.07385;0.0;normal;up to 3 children;9.576792532279685;no
+20;female;30.59;0;no;northeast;2459.7201;0.0;obese;no children;7.807802841965112;no
+32;female;41.1;0;no;southwest;3989.841;1.0;obese;no children;8.291506659465831;no
+43;female;34.58;1;no;northwest;7727.2532;2.0;obese;up to 3 children;8.952508735612067;no
+34;male;42.13;2;no;southeast;5124.1887;2.0;obese;up to 3 children;8.54172748903643;no
+30;male;38.83;1;no;southeast;18963.17192;1.0;obese;up to 3 children;9.850254057175354;no
+18;female;28.215;0;no;northeast;2200.83085;0.0;overweight;no children;7.696590227142071;no
+41;female;28.31;1;no;northwest;7153.5539;2.0;overweight;up to 3 children;8.87536456115119;no
+35;female;26.125;0;no;northeast;5227.98875;2.0;overweight;no children;8.561781922867276;no
+57;male;40.37;0;no;southeast;10982.5013;4.0;obese;no children;9.304058494220062;no
+29;female;24.6;2;no;southwest;4529.477;1.0;normal;up to 3 children;8.41836175927329;no
+32;male;35.2;2;no;southwest;4670.64;1.0;obese;up to 3 children;8.449051386241019;no
+37;female;34.105;1;no;northwest;6112.35295;2.0;obese;up to 3 children;8.718067076234034;no
+18;male;27.36;1;yes;northeast;17178.6824;0.0;overweight;up to 3 children;9.75142449876709;yes_not_obese
+43;female;26.7;2;yes;southwest;22478.6;2.0;overweight;up to 3 children;10.020319024488227;yes_not_obese
+56;female;41.91;0;no;southeast;11093.6229;4.0;obese;no children;9.314125708690787;no
+38;male;29.26;2;no;northwest;6457.8434;2.0;overweight;up to 3 children;8.773050702030712;no
+29;male;32.11;2;no;northwest;4433.9159;1.0;obese;up to 3 children;8.397038422923758;no
+22;female;27.1;0;no;southwest;2154.361;0.0;overweight;no children;7.675249438845605;no
+52;female;24.13;1;yes;northwest;23887.6627;3.0;normal;up to 3 children;10.081117399619002;yes_not_obese
+40;female;27.4;1;no;southwest;6496.886;2.0;overweight;up to 3 children;8.779078264166637;no
+23;female;34.865;0;no;northeast;2899.48935;0.0;obese;no children;7.972289914262673;no
+31;male;29.81;0;yes;southeast;19350.3689;1.0;overweight;no children;9.870466762875685;yes_not_obese
+42;female;41.325;1;no;northeast;7650.77375;2.0;obese;up to 3 children;8.942562065496743;no
+24;female;29.925;0;no;northwest;2850.68375;1.0;overweight;no children;7.955314156769049;no
+25;female;30.3;0;no;southwest;2632.992;1.0;obese;no children;7.875876121132408;no
+48;female;27.36;1;no;northeast;9447.3824;3.0;overweight;up to 3 children;9.153492987408674;no
+23;female;28.49;1;yes;southeast;18328.2381;0.0;overweight;up to 3 children;9.81619821510089;yes_not_obese
+45;male;23.56;2;no;northeast;8603.8234;3.0;normal;up to 3 children;9.059961964839921;no
+20;male;35.625;3;yes;northwest;37465.34375;0.0;obese;up to 3 children;10.531171617986534;yes_obese
+62;female;32.68;0;no;northwest;13844.7972;4.0;obese;no children;9.535664787610457;no
+43;female;25.27;1;yes;northeast;21771.3423;2.0;overweight;up to 3 children;9.988349810573093;yes_not_obese
+23;female;28.0;0;no;southwest;13126.67745;0.0;overweight;no children;9.482401885007656;no
+31;female;32.775;2;no;northwest;5327.40025;1.0;obese;up to 3 children;8.580618640193542;no
+41;female;21.755;1;no;northeast;13725.47184;2.0;normal;up to 3 children;9.527008643928893;no
+58;female;32.395;1;no;northeast;13019.16105;4.0;obese;up to 3 children;9.474177478202634;no
+48;female;36.575;0;no;northwest;8671.19125;3.0;obese;no children;9.067761459413477;no
+31;female;21.755;0;no;northwest;4134.08245;1.0;normal;no children;8.327020684406639;no
+19;female;27.93;3;no;northwest;18838.70366;0.0;overweight;up to 3 children;9.84366873790736;no
+19;female;30.02;0;yes;northwest;33307.5508;0.0;obese;no children;10.41353940101522;yes_obese
+41;male;33.55;0;no;southeast;5699.8375;2.0;obese;no children;8.648192944644329;no
+40;male;29.355;1;no;northwest;6393.60345;2.0;overweight;up to 3 children;8.763053308616136;no
+31;female;25.8;2;no;southwest;4934.705;1.0;overweight;up to 3 children;8.50404817297853;no
+37;male;24.32;2;no;northwest;6198.7518;2.0;normal;up to 3 children;8.732103228184426;no
+46;male;40.375;2;no;northwest;8733.22925;3.0;obese;up to 3 children;9.074890483071128;no
+22;male;32.11;0;no;northwest;2055.3249;0.0;obese;no children;7.628189216623282;no
+51;male;32.3;1;no;northeast;9964.06;3.0;obese;up to 3 children;9.206739898041981;no
+18;female;27.28;3;yes;southeast;18223.4512;0.0;overweight;up to 3 children;9.810464571098317;yes_not_obese
+35;male;17.86;1;no;northwest;5116.5004;2.0;underweight;up to 3 children;8.540225968705249;no
+59;female;34.8;2;no;southwest;36910.60803;4.0;obese;up to 3 children;10.516254269201825;no
+36;male;33.4;2;yes;southwest;38415.474;2.0;obese;up to 3 children;10.556215626155717;yes_obese
+37;female;25.555;1;yes;northeast;20296.86345;2.0;overweight;up to 3 children;9.918221643239786;yes_not_obese
+59;male;37.1;1;no;southwest;12347.172;4.0;obese;up to 3 children;9.42118232798015;no
+36;male;30.875;1;no;northwest;5373.36425;2.0;obese;up to 3 children;8.589209481098042;no
+39;male;34.1;2;no;southeast;23563.01618;2.0;obese;up to 3 children;10.067433650793916;no
+18;male;21.47;0;no;northeast;1702.4553;0.0;normal;no children;7.439826782172378;no
+52;female;33.3;2;no;southwest;10806.839;3.0;obese;up to 3 children;9.287934453440736;no
+27;female;31.255;1;no;northwest;3956.07145;1.0;obese;up to 3 children;8.283006753752403;no
+18;male;39.14;0;no;northeast;12890.05765;0.0;obese;no children;9.464211568382503;no
+40;male;25.08;0;no;southeast;5415.6612;2.0;overweight;no children;8.597050257244009;no
+29;male;37.29;2;no;southeast;4058.1161;1.0;obese;up to 3 children;8.308474130129282;no
+46;female;34.6;1;yes;southwest;41661.602;3.0;obese;up to 3 children;10.637335168228285;yes_obese
+38;female;30.21;3;no;northwest;7537.1639;2.0;obese;up to 3 children;8.927601249659833;no
+30;female;21.945;1;no;northeast;4718.20355;1.0;normal;up to 3 children;8.459183402318027;no
+40;male;24.97;2;no;southeast;6593.5083;2.0;normal;up to 3 children;8.793840853062461;no
+50;male;25.3;0;no;southeast;8442.667;3.0;overweight;no children;9.04105353293468;no
+20;female;24.42;0;yes;southeast;26125.67477;0.0;normal;no children;10.170673817450309;yes_not_obese
+41;male;23.94;1;no;northeast;6858.4796;2.0;normal;up to 3 children;8.833241063502724;no
+33;female;39.82;1;no;southeast;4795.6568;1.0;obese;up to 3 children;8.475465953953865;no
+38;male;16.815;2;no;northeast;6640.54485;2.0;underweight;up to 3 children;8.800949294826985;no
+42;male;37.18;2;no;southeast;7162.0122;2.0;obese;up to 3 children;8.876546253991721;no
+56;male;34.43;0;no;southeast;10594.2257;4.0;obese;no children;9.268064386389522;no
+58;male;30.305;0;no;northeast;11938.25595;4.0;obese;no children;9.387503308438452;no
+52;male;34.485;3;yes;northwest;60021.39897;3.0;obese;up to 3 children;11.002456427119922;yes_obese
+20;female;21.8;0;yes;southwest;20167.33603;0.0;normal;no children;9.911819546370243;yes_not_obese
+54;female;24.605;3;no;northwest;12479.70895;4.0;normal;up to 3 children;9.43185932033737;no
+58;male;23.3;0;no;southwest;11345.519;4.0;normal;no children;9.3365781431927;no
+45;female;27.83;2;no;southeast;8515.7587;3.0;overweight;up to 3 children;9.049673690712916;no
+26;male;31.065;0;no;northwest;2699.56835;1.0;obese;no children;7.900847168841421;no
+63;female;21.66;0;no;northeast;14449.8544;4.0;normal;no children;9.578439617365246;no
+58;female;28.215;0;no;northwest;12224.35085;4.0;overweight;no children;9.411185212728707;no
+37;male;22.705;3;no;northeast;6985.50695;2.0;normal;up to 3 children;8.85159284600809;no
+25;female;42.13;1;no;southeast;3238.4357;1.0;obese;up to 3 children;8.08284568355478;no
+52;male;41.8;2;yes;southeast;47269.854;3.0;obese;up to 3 children;10.763628035142784;yes_obese
+64;male;36.96;2;yes;southeast;49577.6624;4.0;obese;up to 3 children;10.811295656434112;yes_obese
+22;female;21.28;3;no;northwest;4296.2712;0.0;normal;up to 3 children;8.365502762687802;no
+28;female;33.11;0;no;southeast;3171.6149;1.0;obese;no children;8.061996169331463;no
+18;male;33.33;0;no;southeast;1135.9407;0.0;obese;no children;7.035216397214367;no
+28;male;24.3;5;no;southwest;5615.369;1.0;normal;more than 3 children;8.633262581843207;no
+45;female;25.7;3;no;southwest;9101.798;3.0;overweight;up to 3 children;9.116227255405688;no
+33;male;29.4;4;no;southwest;6059.173;1.0;overweight;more than 3 children;8.709328601103802;no
+18;female;39.82;0;no;southeast;1633.9618;0.0;obese;no children;7.398762896933699;no
+32;male;33.63;1;yes;northeast;37607.5277;1.0;obese;up to 3 children;10.534959514126916;yes_obese
+24;male;29.83;0;yes;northeast;18648.4217;1.0;overweight;no children;9.833516794145021;yes_not_obese
+19;male;19.8;0;no;southwest;1241.565;0.0;normal;no children;7.124127959598635;no
+20;male;27.3;0;yes;southwest;16232.847;0.0;overweight;no children;9.694792061021555;yes_not_obese
+40;female;29.3;4;no;southwest;15828.82173;2.0;overweight;more than 3 children;9.669587717382127;no
+34;female;27.72;0;no;southeast;4415.1588;2.0;overweight;no children;8.392799080681138;no
+42;female;37.9;0;no;southwest;6474.013;2.0;obese;no children;8.775551442516303;no
+51;female;36.385;3;no;northwest;11436.73815;3.0;obese;up to 3 children;9.344586097529177;no
+54;female;27.645;1;no;northwest;11305.93455;4.0;overweight;up to 3 children;9.333083048256867;no
+55;male;37.715;3;no;northwest;30063.58055;4.0;obese;up to 3 children;10.31106976965331;no
+52;female;23.18;0;no;northeast;10197.7722;3.0;normal;no children;9.229924563652334;no
+32;female;20.52;0;no;northeast;4544.2348;1.0;normal;no children;8.42161463160122;no
+28;male;37.1;1;no;southwest;3277.161;1.0;obese;up to 3 children;8.094732777794066;no
+41;female;28.05;1;no;southeast;6770.1925;2.0;overweight;up to 3 children;8.820284799770908;no
+43;female;29.9;1;no;southwest;7337.748;2.0;overweight;up to 3 children;8.900787262543032;no
+49;female;33.345;2;no;northeast;10370.91255;3.0;obese;up to 3 children;9.246760296387565;no
+64;male;23.76;0;yes;southeast;26926.5144;4.0;normal;no children;10.20086674556824;yes_not_obese
+55;female;30.5;0;no;southwest;10704.47;4.0;obese;no children;9.278416690223178;no
+24;male;31.065;0;yes;northeast;34254.05335;1.0;obese;no children;10.44156018267344;yes_obese
+20;female;33.3;0;no;southwest;1880.487;0.0;obese;no children;7.539286064831457;no
+45;male;27.5;3;no;southwest;8615.3;3.0;overweight;up to 3 children;9.061294971338892;no
+26;male;33.915;1;no;northwest;3292.52985;1.0;obese;up to 3 children;8.099411499635565;no
+25;female;34.485;0;no;northwest;3021.80915;1.0;obese;no children;8.013610987297714;no
+43;male;25.52;5;no;southeast;14478.33015;2.0;overweight;more than 3 children;9.580408338157117;no
+35;male;27.61;1;no;southeast;4747.0529;2.0;overweight;up to 3 children;8.46527926236957;no
+26;male;27.06;0;yes;southeast;17043.3414;1.0;overweight;no children;9.743514872709168;yes_not_obese
+57;male;23.7;0;no;southwest;10959.33;4.0;normal;no children;9.301946427246547;no
+22;female;30.4;0;no;northeast;2741.948;0.0;obese;no children;7.9164238956827715;no
+32;female;29.735;0;no;northwest;4357.04365;1.0;overweight;no children;8.379549044428517;no
+39;male;29.925;1;yes;northeast;22462.04375;2.0;overweight;up to 3 children;10.019582219255035;yes_not_obese
+25;female;26.79;2;no;northwest;4189.1131;1.0;overweight;up to 3 children;8.340244319866398;no
+48;female;33.33;0;no;southeast;8283.6807;3.0;obese;no children;9.022042677591074;no
+47;female;27.645;2;yes;northwest;24535.69855;3.0;overweight;up to 3 children;10.10788441968992;yes_not_obese
+18;female;21.66;0;yes;northeast;14283.4594;0.0;normal;no children;9.566857461456555;yes_not_obese
+18;male;30.03;1;no;southeast;1720.3537;0.0;obese;up to 3 children;7.450285188201471;no
+61;male;36.3;1;yes;southwest;47403.88;4.0;obese;up to 3 children;10.766459360873188;yes_obese
+47;female;24.32;0;no;northeast;8534.6718;3.0;normal;no children;9.051892181062124;no
+28;female;17.29;0;no;northeast;3732.6251;1.0;underweight;no children;8.224867045261597;no
+36;female;25.9;1;no;southwest;5472.449;2.0;overweight;up to 3 children;8.6074815100297;no
+20;male;39.4;2;yes;southwest;38344.566;0.0;obese;up to 3 children;10.554368101840476;yes_obese
+44;male;34.32;1;no;southeast;7147.4728;3.0;obese;up to 3 children;8.874514118662818;no
+38;female;19.95;2;no;northeast;7133.9025;2.0;normal;up to 3 children;8.872613698878428;no
+19;male;34.9;0;yes;southwest;34828.654;0.0;obese;no children;10.45819571776692;yes_obese
+21;male;23.21;0;no;southeast;1515.3449;0.0;normal;no children;7.323398348799277;no
+46;male;25.745;3;no;northwest;9301.89355;3.0;overweight;up to 3 children;9.13797326594303;no
+58;male;25.175;0;no;northeast;11931.12525;4.0;overweight;no children;9.386905831683409;no
+20;male;22.0;1;no;southwest;1964.78;0.0;normal;up to 3 children;7.583135558747921;no
+18;male;26.125;0;no;northeast;1708.92575;0.0;overweight;no children;7.443620235711848;no
+28;female;26.51;2;no;southeast;4340.4409;1.0;overweight;up to 3 children;8.375731211796301;no
+33;male;27.455;2;no;northwest;5261.46945;1.0;overweight;up to 3 children;8.568165629835017;no
+19;female;25.745;1;no;northwest;2710.82855;0.0;overweight;up to 3 children;7.905009605152786;no
+45;male;30.36;0;yes;southeast;62592.87309;3.0;obese;no children;11.044406702204412;yes_obese
+62;male;30.875;3;yes;northwest;46718.16325;4.0;obese;up to 3 children;10.751888302731006;yes_obese
+25;female;20.8;1;no;southwest;3208.787;1.0;normal;up to 3 children;8.073648263088874;no
+43;male;27.8;0;yes;southwest;37829.7242;2.0;overweight;no children;10.540850427090321;yes_not_obese
+42;male;24.605;2;yes;northeast;21259.37795;2.0;normal;up to 3 children;9.964553392295727;yes_not_obese
+24;female;27.72;0;no;southeast;2464.6188;1.0;overweight;no children;7.809792429487589;no
+29;female;21.85;0;yes;northeast;16115.3045;1.0;normal;no children;9.687524689510054;yes_not_obese
+32;male;28.12;4;yes;northwest;21472.4788;1.0;overweight;more than 3 children;9.974527338330544;yes_not_obese
+25;female;30.2;0;yes;southwest;33900.653;1.0;obese;no children;10.431189555719895;yes_obese
+41;male;32.2;2;no;southwest;6875.961;2.0;obese;up to 3 children;8.835786694584385;no
+42;male;26.315;1;no;northwest;6940.90985;2.0;overweight;up to 3 children;8.84518814721317;no
+33;female;26.695;0;no;northwest;4571.41305;1.0;overweight;no children;8.427577637408286;no
+34;male;42.9;1;no;southwest;4536.259;2.0;obese;up to 3 children;8.419857942542947;no
+19;female;34.7;2;yes;southwest;36397.576;0.0;obese;up to 3 children;10.5022574580008;yes_obese
+30;female;23.655;3;yes;northwest;18765.87545;1.0;normal;up to 3 children;9.83979536382488;yes_not_obese
+18;male;28.31;1;no;northeast;11272.33139;0.0;overweight;up to 3 children;9.330106452543097;no
+19;female;20.6;0;no;southwest;1731.677;0.0;normal;no children;7.456845582123641;no
+18;male;53.13;0;no;southeast;1163.4627;0.0;obese;no children;7.059155923784115;no
+35;male;39.71;4;no;northeast;19496.71917;2.0;obese;more than 3 children;9.878001482704299;no
+39;female;26.315;2;no;northwest;7201.70085;2.0;overweight;up to 3 children;8.882072506273097;no
+31;male;31.065;3;no;northwest;5425.02335;1.0;obese;up to 3 children;8.598777482546863;no
+62;male;26.695;0;yes;northeast;28101.33305;4.0;overweight;no children;10.2435722936984;yes_not_obese
+62;male;38.83;0;no;southeast;12981.3457;4.0;obese;no children;9.471268659768649;no
+42;female;40.37;2;yes;southeast;43896.3763;2.0;obese;up to 3 children;10.689587051237151;yes_obese
+31;male;25.935;1;no;northwest;4239.89265;1.0;overweight;up to 3 children;8.352293229509261;no
+61;male;33.535;0;no;northeast;13143.33665;4.0;obese;no children;9.48367019054946;no
+42;female;32.87;0;no;northeast;7050.0213;2.0;obese;no children;8.860785917078346;no
+51;male;30.03;1;no;southeast;9377.9047;3.0;obese;up to 3 children;9.14611163751643;no
+23;female;24.225;2;no;northeast;22395.74424;0.0;normal;up to 3 children;10.016626230507166;no
+52;male;38.6;2;no;southwest;10325.206;3.0;obese;up to 3 children;9.242343369204054;no
+57;female;25.74;2;no;southeast;12629.1656;4.0;overweight;up to 3 children;9.44376414823737;no
+23;female;33.4;0;no;southwest;10795.93733;0.0;obese;no children;9.286925169193296;no
+52;female;44.7;3;no;southwest;11411.685;3.0;obese;up to 3 children;9.342393109428775;no
+50;male;30.97;3;no;northwest;10600.5483;3.0;obese;up to 3 children;9.268661005177488;no
+18;female;31.92;0;no;northeast;2205.9808;0.0;obese;no children;7.698927496239761;no
+18;female;36.85;0;no;southeast;1629.8335;0.0;obese;no children;7.39623314134416;no
+21;female;25.8;0;no;southwest;2007.945;0.0;overweight;no children;7.604867089998248;no
+61;female;29.07;0;yes;northwest;29141.3603;4.0;overweight;no children;10.279913760197052;yes_not_obese
